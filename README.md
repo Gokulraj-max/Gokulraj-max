@@ -31,6 +31,52 @@ A modern and animated **MERN stack restaurant web application** with seamless fo
 
 ---
 
+### **Soul of Tune Mobile Application** 🎵  
+A mobile app that connects students with skilled tutors to learn musical instruments and purchase quality instruments.  
+
+#### 🔹 Features:  
+✅ Find professional tutors for learning musical instruments.  
+✅ Buy quality musical instruments.  
+✅ Secure database management using Firebase.  
+
+#### 🔹 Tech Stack:  
+🛠 **XML, Java, Firebase Database**  
+
+🔗 **GitHub Repo**: [Your GitHub Repo]  
+
+---
+
+### **RR Bowls Mobile Application** 🍛  
+A mobile app developed for ordering biryani with delivery and integrated payment options, ensuring a smooth and user-friendly experience.  
+
+#### 🔹 Features:  
+✅ Order biryani and other dishes with a seamless ordering experience.  
+✅ Integrated secure payment gateway for online transactions.  
+✅ Real-time order tracking.  
+
+#### 🔹 Tech Stack:  
+🛠 **XML, Java, Firebase Database**  
+
+🔗 **GitHub Repo**: [Your GitHub Repo]  
+
+---
+
+
+### **Resume Builder WebApp** 📝  
+A simple yet powerful resume builder application built with **HTML, CSS, JavaScript, and PHP**.  
+
+#### 🔹 Features:  
+✅ Users can create and download resumes in different formats.  
+✅ Simple and interactive UI for a seamless experience.  
+✅ Data stored in **MySQL** for better management.  
+
+#### 🔹 Tech Stack:  
+🛠 **HTML, CSS, JavaScript, PHP, MySQL**  
+
+🔗 **GitHub Repo**: [Your GitHub Repo]  
+
+---
+
 ## 🛠️ Technologies & Tools  
 
 - **Languages**: HTML, CSS, JavaScript, PHP  
