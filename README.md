@@ -2,12 +2,12 @@
 
 ## 👨‍💻 About Me  
 I'm a passionate and driven **Full-Stack Web Developer**, **MERN Stack Developer**, and **Java Developer** from **Tamil Nadu, India** 🌎.  
-I love creating engaging, user-friendly, and visually appealing **web applications** and **mobile apps** using cutting-edge technologies.  
+I specialize in building **scalable, high-performance web applications** and **mobile solutions** with a focus on **clean architecture, efficiency, and user experience**.  
 
-- 🚀 Constantly learning and experimenting with the latest tools in development.  
-- 🔧 Specializing in **MERN Stack, Java Development, HTML, CSS, JavaScript, PHP**, and **Android Studio** to build responsive, scalable apps.  
-- 📚 Believer in **continuous learning** and contributing to open-source.  
-- 💡 Enthusiastic about **UI/UX design** and delivering intuitive user experiences.  
+- 🚀 Continuously exploring emerging technologies to stay ahead in the development landscape.  
+- 🔧 Skilled in **MERN Stack** and **Java Development**, delivering end-to-end solutions from concept to deployment.  
+- 📚 Advocate of **continuous learning** and active contributor to the developer community.  
+- 💡 Dedicated to crafting **intuitive, aesthetically pleasing, and impactful digital experiences**.  
 
 ---
 
@@ -44,8 +44,8 @@ Create and download professional resumes in multiple formats with a **clean, int
 ## 🛠 Skills & Technologies  
 
 **Frontend:** HTML, CSS, JavaScript, ReactJS, Next.js, TailwindCSS, Bootstrap  
-**Backend:** Node.js, Express.js, PHP  
-**Databases:** MySQL, MongoDB, Firebase  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL, Firebase  
 **Mobile Development:** Android Studio, Java, XML  
 **Other Tools:** Git, Docker, Postman, Redux  
 
