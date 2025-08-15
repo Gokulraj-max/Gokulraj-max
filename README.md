@@ -51,14 +51,6 @@ Create and download professional resumes in multiple formats with a **clean, int
 
 ---
 
-## 📚 Currently Learning  
-- Cybersecurity  
-- Advanced Android Development  
-- Backend Development (Node.js, Express.js)  
-- UI/UX Best Practices  
-
----
-
 ## 📫 Let's Connect  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Gokulraj-max)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/govindh-sde/)  
