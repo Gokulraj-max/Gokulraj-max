@@ -18,31 +18,44 @@ I specialize in building **scalable, high-performance web applications** and **m
 
 ## 🚀 Featured Projects  
 
+### 🎙 **Lara – Your Personal Voice Assistant**  
+A cross-platform intelligent **voice assistant** built with Python. It listens to your commands and performs tasks like:  
+- 🎵 Playing music  
+- 📂 Opening applications  
+- 📖 Reading news  
+- ⏰ Setting alarms  
+- 😂 Telling jokes  
+
+**Tech:** Python, Tkinter (GUI), SpeechRecognition, pyttsx3, API Integrations  
+🔗 [GitHub Repo]([https://github.com/](https://github.com/Gokulraj-max/Lara_Voice_Assistant))  
+
+---
+
 ### 🍽️ **TasteHeaven** — MERN Stack Restaurant Web App  
 A modern animated restaurant platform for online ordering and service bookings with an **admin dashboard** and **real-time tracking**.  
 **Tech:** ReactJS, Node.js, Express.js, MongoDB, Redux, TailwindCSS  
-🔗 [GitHub Repo](https://github.com/) | 🔗 [Live Demo](https://your-live-demo.com)  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/Taste-Heaven)  
 
 ---
 
 ### 🎵 **Soul of Tune Mobile App**  
 Connects students with tutors for musical instrument learning and allows purchasing instruments online.  
 **Tech:** Java, XML, Firebase Database  
-🔗 [GitHub Repo](https://github.com/)  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/Soul_of_Music)  
 
 ---
 
 ### 🍛 **RR Bowls Mobile App**  
 A smooth mobile ordering experience for biryani with **real-time tracking** and **payment integration**.  
 **Tech:** Java, XML, Firebase Database  
-🔗 [GitHub Repo](https://github.com/)  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/RR_Bowls)  
 
 ---
 
 ### 📝 **Resume Builder Web App**  
 Create and download professional resumes in multiple formats with a **clean, interactive UI**.  
 **Tech:** HTML, CSS, JavaScript, PHP, MySQL  
-🔗 [GitHub Repo](https://github.com/)  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/Resume_Builder)  
 
 ---
 
