@@ -27,7 +27,7 @@ A cross-platform intelligent **voice assistant** built with Python. It listens t
 - 😂 Telling jokes  
 
 **Tech:** Python, Tkinter (GUI), SpeechRecognition, pyttsx3, API Integrations  
-🔗 [GitHub Repo]([https://github.com/](https://github.com/Gokulraj-max/Lara_Voice_Assistant))  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/Lara_Voice_Assistant)  
 
 ---
 
