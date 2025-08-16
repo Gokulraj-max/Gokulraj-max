@@ -1,16 +1,16 @@
 # Hi there, I'm Govinth 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gokulraj-max&color=blue)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Developer;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=600&lines=Java+Developer;Python+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;Tech+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me  
-I'm a passionate and driven **Full-Stack Web Developer**, **MERN Stack Developer**, and **Java Developer** from **Tamil Nadu, India** 🌎.  
+I'm a passionate and driven **Java Developer**, **Python Enthusiast**, and **MERN Stack Developer** from **Tamil Nadu, India** 🌎.  
 I specialize in building **scalable, high-performance web applications** and **mobile solutions** with a focus on **clean architecture, efficiency, and user experience**.  
 
 - 🚀 Continuously exploring emerging technologies to stay ahead in the development landscape.  
-- 🔧 Skilled in **MERN Stack** and **Java Development**, delivering end-to-end solutions from concept to deployment.  
+- 🔧 Skilled in **Java, Python, and MERN Stack Development**, delivering end-to-end solutions from concept to deployment.  
 - 📚 Advocate of **continuous learning** and active contributor to the developer community.  
 - 💡 Dedicated to crafting **intuitive, aesthetically pleasing, and impactful digital experiences**.  
 
@@ -46,11 +46,14 @@ Create and download professional resumes in multiple formats with a **clean, int
 
 ---
 
-## 🛠 Skills & Technologies  
+## 🛠 Languages & Technologies  
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)  
+### 🔹 Programming Languages  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
+
+### 🔹 Web & MERN Stack  
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge)  
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
@@ -58,9 +61,15 @@ Create and download professional resumes in multiple formats with a **clean, int
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=fff&style=for-the-badge)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=000&style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)  
+
+### 🔹 Tools & IDEs  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)  
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=fff&style=for-the-badge)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=fff&style=for-the-badge)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=fff&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=fff&style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)  
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)  
 
 ---
@@ -68,7 +77,7 @@ Create and download professional resumes in multiple formats with a **clean, int
 ## 📊 GitHub Stats  
 
 ![Govinth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=radical&langs_count=8&hide=php,css)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=radical)  
 
 ---
