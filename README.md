@@ -1,5 +1,10 @@
 # Hi there, I'm Govinth 👋  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Gokulraj-max&color=blue)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Developer;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
 ## 👨‍💻 About Me  
 I'm a passionate and driven **Full-Stack Web Developer**, **MERN Stack Developer**, and **Java Developer** from **Tamil Nadu, India** 🌎.  
 I specialize in building **scalable, high-performance web applications** and **mobile solutions** with a focus on **clean architecture, efficiency, and user experience**.  
@@ -43,18 +48,35 @@ Create and download professional resumes in multiple formats with a **clean, int
 
 ## 🛠 Skills & Technologies  
 
-**Frontend:** HTML, CSS, JavaScript, ReactJS, Next.js, TailwindCSS, Bootstrap  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL, Firebase  
-**Mobile Development:** Android Studio, Java, XML  
-**Other Tools:** Git, Docker, Postman, Redux  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=fff&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=000&style=for-the-badge)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)  
+![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=fff&style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Govinth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=radical)  
 
 ---
 
 ## 📫 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Gokulraj-max)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/govindh-sde/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/grajbits)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/Gokulraj-max)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/govindh-sde/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://x.com/grajbits)  
 📧 **Email:** [grajbits@gmail.com](mailto:grajbits@gmail.com)  
 
 ---
