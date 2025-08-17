@@ -1,4 +1,4 @@
-# Hi there, I'm Govinth 👋  
+# Hi there, I'm Govinth 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gokulraj-max&color=blue)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=600&lines=Java+Developer;Python+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;Tech+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
