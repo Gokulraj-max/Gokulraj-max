@@ -31,10 +31,17 @@ A cross-platform intelligent **voice assistant** built with Python. It listens t
 
 ---
 
-### 🍽️ **TasteHeaven** — MERN Stack Restaurant Web App  
+### 🍽️ **TasteHeaven — MERN Stack Restaurant Web App**  
 A modern animated restaurant platform for online ordering and service bookings with an **admin dashboard** and **real-time tracking**.  
 **Tech:** ReactJS, Node.js, Express.js, MongoDB, Redux, TailwindCSS  
 🔗 [GitHub Repo](https://github.com/Gokulraj-max/Taste-Heaven)  
+
+---
+
+### 💬 **Real-Time Chat Application**  
+A full-stack **messaging application** built with **Angular (TypeScript)**, **PHP**, and **MySQL** for real-time one-to-one and group chats with **end-to-end encryption**.  
+**Tech:** Angular, TypeScript, PHP, MySQL, Socket.IO  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/Real-Time-Chat-App)  
 
 ---
 
@@ -65,6 +72,7 @@ Create and download professional resumes in multiple formats with a **clean, int
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 
 ### 🔹 Web & MERN Stack  
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge)  
@@ -74,6 +82,8 @@ Create and download professional resumes in multiple formats with a **clean, int
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=fff&style=for-the-badge)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=000&style=for-the-badge)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 
 ### 🔹 Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)  
