@@ -41,7 +41,7 @@ A modern animated restaurant platform for online ordering and service bookings w
 ### 💬 **Real-Time Chat Application**  
 A full-stack **messaging application** built with **Angular (TypeScript)**, **PHP**, and **MySQL** for real-time one-to-one and group chats with **end-to-end encryption**.  
 **Tech:** Angular, TypeScript, PHP, MySQL, Socket.IO  
-🔗 [GitHub Repo](https://github.com/Gokulraj-max/Real-Time-Chat-App)  
+🔗 [GitHub Repo](https://github.com/Gokulraj-max/Massaging-App)  
 
 ---
 
