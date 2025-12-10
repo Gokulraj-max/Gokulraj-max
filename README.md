@@ -142,13 +142,15 @@ Generate and download professional resumes with clean UI/UX.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Always Working)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gokulraj-max)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokulraj-max&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gokulraj-max)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokulraj-max&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokulraj-max&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gokulraj-max&theme=tokyonight)](https://github.com/Gokulraj-max)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokulraj-max&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokulraj-max&theme=tokyonight&utcOffset=8)
 
  ---
 
