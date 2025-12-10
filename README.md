@@ -142,13 +142,13 @@ Generate and download professional resumes with clean UI/UX.
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gokulraj-max)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gokulraj-max)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gokulraj-max&theme=tokyonight)](https://github.com/Gokulraj-max)
 
----
+ ---
 
 # 📫 Connect With Me  
 **GitHub:** https://github.com/Gokulraj-max  
