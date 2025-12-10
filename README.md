@@ -142,7 +142,7 @@ Generate and download professional resumes with clean UI/UX.
 
 ---
 
-## 📊 GitHub Stats (Always Working)
+## 📊 GitHub Stats 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokulraj-max&theme=tokyonight)
 
@@ -155,10 +155,8 @@ Generate and download professional resumes with clean UI/UX.
  ---
 
 # 📫 Connect With Me  
-**GitHub:** https://github.com/Gokulraj-max  
-**LinkedIn:** https://www.linkedin.com/in/govindh-sde/  
-**Twitter:** https://x.com/grajbits  
-**Email:** grajbits@gmail.com  
+
+<p align="left"> <a href="https://github.com/Gokulraj-max"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/govindh-sde/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/grajbits"> <img src="https://img.shields.io/badge/Twitter(X)-000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:grajbits@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
