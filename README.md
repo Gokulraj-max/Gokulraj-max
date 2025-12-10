@@ -1,15 +1,9 @@
-
 <p align="center">
-  <img width="80" height="80" style="border-radius:50%" alt="avatar" src="https://github.com/Gokulraj-max.png" />
+  <strong style="font-size:30px; color:#00A8E8;">GOVINTH</strong>
+  <br/>
+  <span style="color:#9fbcd9;">Full Stack Developer — Java • Python • MERN • ML</span>
 </p>
-<h2 align="center" style="margin:0.2em 0 0.6em 0; font-weight:700;">
-  <span style="background:linear-gradient(90deg,#001f3f,#003f7f,#00a8e8);
-       -webkit-background-clip:text;color:transparent;">GOVINTH</span>
-  <span style="color:#9fbcd9;"> • FULL STACK DEVELOPER</span>
-</h2>
-<p align="center" style="margin-top:0;">
-  <img alt="neon-badge" src="https://img.shields.io/badge/Java-Python-MERN-F7DF1E?style=for-the-badge&logo=github&labelColor=001F3F" />
-</p>
+<hr style="border:none; height:1px; background:#001F3F; margin-top:0.8em;"/>
 
 
 # Hi there, I'm Govinth 👋  
