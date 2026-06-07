@@ -26,14 +26,10 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 ## 🧠 AI, Machine Learning & RAG
 
 ### 📂 AI-Powered Legal Document Assistant (LexiRAG)
-An intelligent, secure, and fast Retrieval-Augmented Generation (RAG) system built to parse legal documents (PDF, DOCX, TXT), index them into a high-performance local SQLite + NumPy vector database, and answer user queries with precise source and page citations.
+An intelligent, secure, and fast Retrieval-Augmented Generation (RAG) system built to parse legal documents and answer queries with precise citations.
 
-* **Key Features:**
-  * 📄 **Document Ingestion & Chunking:** Parses `.pdf` (page-by-page), `.docx` (section-by-section), and `.txt` (paragraph-by-paragraph) using character-limit sliding windows that respect sentence boundaries.
-  * ⚡ **Local SQLite + NumPy Vector DB:** Zero-configuration local database storing embeddings as binary buffers in SQLite and comparing in-memory using NumPy cosine similarity for lightning-fast performance.
-  * 🤖 **RAG QA Engine:** Utilizes the official, modern `google-genai` SDK and Google's Gemini models (`gemini-2.5-flash` or `gemini-2.5-pro`) to reason over legal documents and answer questions.
-  * 🔍 **Precise Citation Tracking:** Highlights exactly where in the source document the facts were retrieved (page numbers for PDFs, section indices for DOCX/TXT) alongside match scores.
-  * 📊 **Premium Streamlit UI:** Fully responsive dashboard featuring collapsible source citations, complete document inventory, interactive corpus analytics charts, and configurable RAG parameters.
+* **Key Features:**  
+  📄 Multi-Format Ingestion (PDF, DOCX, TXT) • ⚡ Local SQLite + NumPy Vector DB • 🤖 Gemini-powered QA • 🔍 Precise Citation Tracking • 📊 Streamlit Corpus Analytics  
 * **Tech Stack:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -46,14 +42,11 @@ An intelligent, secure, and fast Retrieval-Augmented Generation (RAG) system bui
 ---
 
 ### 🌍 EcoGuard AI - Smart Waste Classification
-An AI-powered waste classification system and environmental impact tracker designed to promote proper recycling practices and raise ecological awareness.
+An AI-powered waste classification system and environmental impact tracker designed to promote proper recycling practices.
 *🏆 Built for the AI For Good Hackathon 2026 | ACM-W Track*
 
-* **Key Features:**
-  * 📸 **Smart CV Classification:** Upload images or use camera to automatically identify 6 distinct waste categories (Plastic, Paper, Glass, Metal, Organic, E-Waste).
-  * 🎨 **Multi-Feature Analysis:** Implements RGB/HSV/LAB color ratio detection, edge density analysis, Laplacian variance, and dominant color extraction using K-Means clustering.
-  * 📊 **Impact Dashboard:** Real-time environmental metrics (CO₂ saved, water conserved, energy saved, landfill diverted) visualized with interactive Plotly Express charts.
-  * 🏆 **Gamified Challenges:** Leaderboards, custom goals, and achievements to incentivize sustainable community behavior.
+* **Key Features:**  
+  📸 CV-based Classification (6 waste types) • 🎨 Color & texture analysis • 📊 Plotly Impact Dashboard • 🏆 Gamified challenges & goals  
 * **Tech Stack:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -67,12 +60,10 @@ An AI-powered waste classification system and environmental impact tracker desig
 ---
 
 ### 🎮 Emotional Pong – Emotion Controlled AI Game
-An AI-powered interactive Pong game that reads your real-time facial expressions via webcam to dynamically adapt the gameplay, difficulty, and physics.
+An AI-powered interactive Pong game that reads your real-time facial expressions via webcam to dynamically adapt the gameplay.
 
-* **Key Features:**
-  * 😀 **Facial Emotion Recognition:** Real-time analysis of facial expressions using computer vision models.
-  * 🧠 **Adaptive AI:** Game difficulty and AI paddle behavior scale dynamically based on player emotion (frustration, excitement, focus).
-  * 📸 **Webcam Processing:** High-frequency real-time frames captured and evaluated with zero-lag game loop.
+* **Key Features:**  
+  😀 Facial emotion recognition • 🧠 Adaptive AI • 📸 Webcam processing  
 * **Tech Stack:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -101,12 +92,8 @@ A cross-platform intelligent desktop voice assistant that performs local system 
 
 ### 📋 TaskFlow Manager
 A premium, full-stack task management application featuring a glassmorphism dark-theme dashboard, interactive Kanban boards, and productivity analytics.
-* **Key Features:**
-  * 🔐 **Secure User Authentication:** Registration and login powered by Spring Security and stateless JWT (JSON Web Tokens) with BCrypt password hashing.
-  * 📊 **Interactive Kanban Dashboard:** Organize tasks across To Do, In Progress, and Completed states.
-  * 🎯 **Dynamic Prioritization:** Task cards are dynamically color-coded based on urgency levels (Low, Medium, High).
-  * 📈 **Productivity Stats & Search:** Interactive widgets with live total task counts and search/filter queries.
-  * 🎨 **Glassmorphism Styling:** CSS variables, backdrop blurs, HSL color gradients, and micro-animations.
+* **Key Features:**  
+  🔐 Secure JWT Authentication • 📋 Interactive Kanban Board • 🎯 Priority Urgency Levels • 📈 Productivity Statistics • 🎨 Glassmorphism design  
 * **Tech Stack:**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
