@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <strong style="font-size:36px; color:#00A8E8;">GOVINTH</strong>
   <br/>
   <span style="color:#9fbcd9; font-size:18px;">Full Stack Developer — Java • Python • MERN • ML</span>
