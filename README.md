@@ -5,62 +5,49 @@
 </p>
 <hr style="border:none; height:1px; background:#001F3F; margin-top:0.8em; margin-bottom:1.5em;"/>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="38%" align="center" valign="top" style="border: none; padding-right: 20px;">
-      <img src="assets/ascii_portrait.png" width="100%" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); margin-bottom: 20px;" />
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
-    </td>
-    <td width="62%" valign="top" style="border: none;">
-      <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13.5px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 20px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0;">
+<!-- Center the Terminal Information Box -->
+<div align="center">
+  <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13.5px; line-height: 1.45; color: #f0f4f9; background: #070a13; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); max-width: 680px; text-align: left; margin: 0 auto;">
 <b>gokul@backend</b>
 ────────────────────────────────────────────────────────────
-
 <b>• OS:</b>                         Windows 11, Ubuntu Linux, Android 15
 <b>• Uptime:</b>                     MCA Graduate
 <b>• Role:</b>                       Java Backend Developer
 <b>• IDE:</b>                        IntelliJ IDEA, VS Code
-
 <b>• Languages.Programming:</b>      Java, Python, C++
 <b>• Languages.Computer:</b>         HTML, CSS, SQL, JSON, XML, YAML
 <b>• Languages.Real:</b>             English, Tamil
-
 <b>• Backend:</b>                    Spring Boot, REST APIs, JDBC
 <b>• Databases:</b>                  MySQL, MongoDB
 <b>• AI/ML:</b>                      Generative AI, LLMs, RAG
 <b>• Tools:</b>                      Git, GitHub, Docker, Postman
-
 <b>• Core CS:</b>                    DSA, OOP, DBMS, Operating Systems,
                               Computer Networks
-
 <b>• Hobbies.Software:</b>           Backend Development, Open Source, AI
 <b>• Hobbies.Hardware:</b>           Linux, PC Hardware
-
 ────────────────────────────────────────────────────────────
-
 <b>Contact</b>
-
 <b>• Email:</b>                      grajbits@gmail.com
 <b>• LinkedIn:</b>                   linkedin.com/in/govindh-sde
 <b>• GitHub:</b>                     github.com/Gokulraj-max
 <b>• LeetCode:</b>                   leetcode.com/Gokulraj-max
-
 ────────────────────────────────────────────────────────────
-
 <b>GitHub Stats</b>
-
 <b>• Repositories:</b>               15
 <b>• Contributions:</b>              250+
 <b>• Stars:</b>                      12
 <b>• Commits:</b>                    1000+
 <b>• Followers:</b>                  24
-
 ────────────────────────────────────────────────────────────
-      </pre>
-    </td>
-  </tr>
-</table>
+  </pre>
+</div>
+
+<!-- Center the ASCII Portrait and Views badge below the Terminal Box -->
+<p align="center" style="margin-top: 30px;">
+  <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
+  <br/><br/>
+  <img src="assets/ascii_portrait.png" width="380" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+</p>
 
 <br/>
 
