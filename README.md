@@ -8,11 +8,10 @@
 <!-- Side-by-Side Balanced Layout with Explicit Matching Height -->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <br/>
-    <br/>
-    <br/>
     <!-- Left Column: Portrait and profile view badge matching the terminal card height of 560px -->
     <td width="40%" align="center" valign="top" style="border: none; padding-right: 20px;">
+      <br/>
+      <br/>
       <img src="assets/ascii_portrait.png" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); height: 505px; width: 100%; object-fit: cover; display: block;" />
       <br/>
       <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
