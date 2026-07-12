@@ -18,39 +18,39 @@
       <br/>
       <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
     </td>
-    <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment -->
+    <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment & neon-green labels -->
     <td width="60%" valign="top" style="border: none;">
       <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 560px; overflow: hidden; display: block;">
-govinth@backend
+<span style="color: #00ff88; font-weight: bold;">govinth@backend</span>
 ────────────────────────────────────────────────────────────
-• OS:                         Windows 11, Ubuntu Linux, Android 15
-• Uptime:                     MCA Graduate
-• Role:                       Java Backend Developer
-• IDE:                        IntelliJ IDEA, VS Code
-• Languages.Programming:      Java, Python, C++
-• Languages.Computer:         HTML, CSS, SQL, JSON, XML, YAML
-• Languages.Real:             English, Tamil
-• Backend:                    Spring Boot, REST APIs, JDBC
-• Databases:                  MySQL, MongoDB
-• AI/ML:                      Generative AI, LLMs, RAG
-• Tools:                      Git, GitHub, Docker, Postman
-• Core CS:                    DSA, OOP, DBMS, Operating Systems,
+<span style="color: #00ff88;">• OS:</span>                         Windows 11, Ubuntu Linux, Android 15
+<span style="color: #00ff88;">• Uptime:</span>                     MCA Graduate
+<span style="color: #00ff88;">• Role:</span>                       Java Backend Developer
+<span style="color: #00ff88;">• IDE:</span>                        IntelliJ IDEA, VS Code
+<span style="color: #00ff88;">• Languages.Programming:</span>      Java, Python, C++
+<span style="color: #00ff88;">• Languages.Computer:</span>         HTML, CSS, SQL, JSON, XML, YAML
+<span style="color: #00ff88;">• Languages.Real:</span>             English, Tamil
+<span style="color: #00ff88;">• Backend:</span>                    Spring Boot, REST APIs, JDBC
+<span style="color: #00ff88;">• Databases:</span>                  MySQL, MongoDB
+<span style="color: #00ff88;">• AI/ML:</span>                      Generative AI, LLMs, RAG
+<span style="color: #00ff88;">• Tools:</span>                      Git, GitHub, Docker, Postman
+<span style="color: #00ff88;">• Core CS:</span>                    DSA, OOP, DBMS, Operating Systems,
                               Computer Networks
-• Hobbies.Software:           Backend Development, Open Source, AI
-• Hobbies.Hardware:           Linux, PC Hardware
+<span style="color: #00ff88;">• Hobbies.Software:</span>           Backend Development, Open Source, AI
+<span style="color: #00ff88;">• Hobbies.Hardware:</span>           Linux, PC Hardware
 ────────────────────────────────────────────────────────────
-Contact
-• Email:                      <a href="mailto:grajbits@gmail.com" style="color: #00ff88; text-decoration: none;">grajbits@gmail.com</a>
-• LinkedIn:                   <a href="https://linkedin.com/in/govindh-sde" style="color: #00ff88; text-decoration: none;">linkedin.com/in/govindh-sde</a>
-• GitHub:                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
-• LeetCode:                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
+<span style="color: #00ff88; font-weight: bold;">Contact</span>
+<span style="color: #00ff88;">• Email:</span>                      <a href="mailto:grajbits@gmail.com" style="color: #00ff88; text-decoration: none;">grajbits@gmail.com</a>
+<span style="color: #00ff88;">• LinkedIn:</span>                   <a href="https://linkedin.com/in/govindh-sde" style="color: #00ff88; text-decoration: none;">linkedin.com/in/govindh-sde</a>
+<span style="color: #00ff88;">• GitHub:</span>                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
+<span style="color: #00ff88;">• LeetCode:</span>                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
 ────────────────────────────────────────────────────────────
-GitHub Stats
-• Repositories:               15+
-• Contributions:              90+
-• Stars:                      12
-• Commits:                    100+
-• Followers:                  24
+<span style="color: #00ff88; font-weight: bold;">GitHub Stats</span>
+<span style="color: #00ff88;">• Repositories:</span>               15+
+<span style="color: #00ff88;">• Contributions:</span>              90+
+<span style="color: #00ff88;">• Stars:</span>                      12
+<span style="color: #00ff88;">• Commits:</span>                    100+
+<span style="color: #00ff88;">• Followers:</span>                  24
 ────────────────────────────────────────────────────────────
       </pre>
     </td>
@@ -289,6 +289,5 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 </p>
 
 ---
-
 
 <p align="center">✨ <i>"Learning is a never-ending journey."</i> ✨</p>
