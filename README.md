@@ -5,8 +5,15 @@
 </p>
 <hr style="border:none; height:1px; background:#001F3F; margin-top:0.8em; margin-bottom:1.5em;"/>
 
-<!-- Center the Terminal Information Box -->
-<div align="center">
+<!-- 1. ASCII Portrait Centered on Top -->
+<p align="center">
+  <img src="assets/ascii_portrait.png" width="380" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
+</p>
+
+<!-- 2. Terminal Information Card Centered Below -->
+<div align="center" style="margin-top: 25px; margin-bottom: 30px;">
   <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13.5px; line-height: 1.45; color: #f0f4f9; background: #070a13; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); max-width: 680px; text-align: left; margin: 0 auto;">
 <b>gokul@backend</b>
 ────────────────────────────────────────────────────────────
@@ -41,13 +48,6 @@
 ────────────────────────────────────────────────────────────
   </pre>
 </div>
-
-<!-- Center the ASCII Portrait and Views badge below the Terminal Box -->
-<p align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
-  <br/><br/>
-  <img src="assets/ascii_portrait.png" width="380" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
-</p>
 
 <br/>
 
@@ -96,7 +96,7 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 ---
 
 ### 🎮 Emotional Pong – Emotion Controlled AI Game
-> An AI-powered interactive Pong game that reads your real-time facial expressions via webcam to dynamically adapt the gameplay.
+> An AI-powered interactive Pong game that reads your real-time facial expressions via webcam to dynamically adapt the gameplay difficulty.
 
 *   **🔑 Key Features:** Facial emotion recognition • Adaptive AI opponent • webcam video processing
 *   **🛠 Tech Stack:**  
@@ -228,7 +228,7 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 
 *   **🔑 Key Features:** Menu customization • Live order tracking status • Quick secure payment options
 *   **🛠 Tech Stack:**  
-    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 *   🔗 **Repository:** [RR_Bowls](https://github.com/Gokulraj-max/RR_Bowls)
 
