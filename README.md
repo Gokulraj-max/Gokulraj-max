@@ -46,8 +46,8 @@ Contact
 • LeetCode:                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
 ────────────────────────────────────────────────────────────
 GitHub Stats
-• Repositories:               16+
-• Contributions:              250+
+• Repositories:               15+
+• Contributions:              90+
 • Stars:                      12
 • Commits:                    100+
 • Followers:                  24
