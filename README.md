@@ -49,7 +49,7 @@ GitHub Stats
 • Repositories:               16+
 • Contributions:              250+
 • Stars:                      12
-• Commits:                    1000+
+• Commits:                    100+
 • Followers:                  24
 ────────────────────────────────────────────────────────────
       </pre>
