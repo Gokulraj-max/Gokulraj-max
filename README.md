@@ -5,16 +5,18 @@
 </p>
 <hr style="border:none; height:1px; background:#001F3F; margin-top:0.8em; margin-bottom:1.5em;"/>
 
-<!-- 1. ASCII Portrait Centered on Top -->
-<p align="center">
-  <img src="assets/ascii_portrait.png" width="380" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
-</p>
-
-<!-- 2. Terminal Information Card Centered Below (Plain text inside pre to guarantee perfect monospace alignment) -->
-<div align="center" style="margin-top: 25px; margin-bottom: 30px;">
-  <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.45; color: #f0f4f9; background: #070a13; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); max-width: 680px; text-align: left; margin: 0 auto;">
+<!-- Side-by-Side Balanced Layout -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Left Column: ASCII Portrait scaled to match terminal card height -->
+    <td width="40%" align="center" valign="top" style="border: none; padding-right: 20px;">
+      <img src="assets/ascii_portrait.png" width="100%" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); max-height: 580px; object-fit: cover; display: block;" />
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
+    </td>
+    <!-- Right Column: Terminal Info Card -->
+    <td width="60%" valign="top" style="border: none;">
+      <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 100%;">
 gokul@backend
 ────────────────────────────────────────────────────────────
 • OS:                         Windows 11, Ubuntu Linux, Android 15
@@ -46,8 +48,10 @@ GitHub Stats
 • Commits:                    1000+
 • Followers:                  24
 ────────────────────────────────────────────────────────────
-  </pre>
-</div>
+      </pre>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
