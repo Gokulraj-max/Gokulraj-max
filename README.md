@@ -73,18 +73,6 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 
 ## 🧠 AI, Machine Learning & RAG
 
-### 📸 Image-to-ASCII Converter
-> A premium, interactive client-side web application to convert images into beautiful stylized ASCII art in real-time.
-
-*   **🔑 Key Features:** Real-Time Tuning Sliders (Contrast, Brightness, Saturation, Density, Aspect Ratio) • Custom Color Text Rendering • Dynamic Background Removal (Chroma Keying) • High-Res Canvas Exports (.txt, .html, .png) • Interactive Pan & Zoom viewport.
-*   **🛠 Tech Stack:**  
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-*   🔗 **Repository:** [IMAGE_TO_ASCII](https://github.com/Gokulraj-max/IMAGE_TO_ASCII) | 🚀 **Live Demo:** [Try IMAGE_TO_ASCII Now](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)
-
----
-
 ### 📂 AI-Powered Legal Document Assistant (LexiRAG)
 > An intelligent, secure, and fast Retrieval-Augmented Generation (RAG) system built to parse legal documents and answer queries with precise citations.
 
@@ -142,6 +130,18 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 ---
 
 ## 🌐 Full-Stack Web Applications
+
+### 🖥️ Creative Pixel-to-ASCII Studio
+> A premium, interactive client-side web application to convert images into beautiful stylized ASCII art in real-time.
+
+*   **🔑 Key Features:** Real-Time Tuning Sliders (Contrast, Brightness, Saturation, Density, Aspect Ratio) • Custom Color Text Rendering • Dynamic Background Removal (Chroma Keying) • High-Res Canvas Exports (.txt, .html, .png) • Interactive Pan & Zoom viewport.
+*   **🛠 Tech Stack:**  
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+*   🔗 **Repository:** [IMAGE_TO_ASCII](https://github.com/Gokulraj-max/IMAGE_TO_ASCII) | 🚀 **Live Demo:** [Try IMAGE_TO_ASCII Now](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)
+
+---
 
 ### ⚡ High-Performance URL Shortener
 > A highly scalable, secure URL shortening and redirection service combining the speed of a C++ Performance Engine with the flexibility of a Python FastAPI API gateway.
@@ -303,3 +303,4 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 ---
 
 <p align="center">✨ <i>"Learning is a never-ending journey."</i> ✨</p>
+,Description:Update final_readme.md moving IMAGE_TO_ASCII under Full-Stack Web Applications as 'Creative Pixel-to-ASCII Studio'.,IsArtifact:true,Overwrite:true,TargetFile:C:\Users\Gokul\.gemini\antigravity\brain\cee974c3-58e7-4153-a6ee-fb9f4086bf2c\final_readme.md,toolAction:Moving and renaming project in final_readme.md,toolSummary:Updating artifact}
