@@ -17,7 +17,7 @@
     <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment -->
     <td width="60%" valign="top" style="border: none;">
       <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 560px; overflow: hidden; display: block;">
-gokul@backend
+govinth@backend
 ────────────────────────────────────────────────────────────
 • OS:                         Windows 11, Ubuntu Linux, Android 15
 • Uptime:                     MCA Graduate
@@ -42,7 +42,7 @@ Contact
 • LeetCode:                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
 ────────────────────────────────────────────────────────────
 GitHub Stats
-• Repositories:               15
+• Repositories:               16+
 • Contributions:              250+
 • Stars:                      12
 • Commits:                    1000+
@@ -286,23 +286,5 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Gokulraj-max">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/govindh-sde/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/grajbits">
-    <img src="https://img.shields.io/badge/Twitter(X)-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:grajbits@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 
 <p align="center">✨ <i>"Learning is a never-ending journey."</i> ✨</p>
