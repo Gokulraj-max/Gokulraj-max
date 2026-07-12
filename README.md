@@ -7,6 +7,10 @@
 
 # Hi there, I'm Govinth 👋  
 
+<p align="center">
+  <img src="assets/ascii_portrait.png" width="380" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
 </p>
