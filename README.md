@@ -5,18 +5,18 @@
 </p>
 <hr style="border:none; height:1px; background:#001F3F; margin-top:0.8em; margin-bottom:1.5em;"/>
 
-<!-- Side-by-Side Balanced Layout -->
+<!-- Side-by-Side Balanced Layout with Explicit Matching Height -->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Left Column: ASCII Portrait scaled to match terminal card height -->
+    <!-- Left Column: Portrait and profile view badge matching the terminal card height of 560px -->
     <td width="40%" align="center" valign="top" style="border: none; padding-right: 20px;">
-      <img src="assets/ascii_portrait.png" width="100%" alt="Govinth ASCII Portrait" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); max-height: 580px; object-fit: cover; display: block;" />
+      <img src="assets/ascii_portrait.png" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); height: 505px; width: 100%; object-fit: cover; display: block;" />
       <br/>
       <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
     </td>
-    <!-- Right Column: Terminal Info Card -->
+    <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment -->
     <td width="60%" valign="top" style="border: none;">
-      <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 100%;">
+      <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 560px; overflow: hidden; display: block;">
 gokul@backend
 ────────────────────────────────────────────────────────────
 • OS:                         Windows 11, Ubuntu Linux, Android 15
@@ -36,10 +36,10 @@ gokul@backend
 • Hobbies.Hardware:           Linux, PC Hardware
 ────────────────────────────────────────────────────────────
 Contact
-• Email:                      grajbits@gmail.com
-• LinkedIn:                   linkedin.com/in/govindh-sde
-• GitHub:                     github.com/Gokulraj-max
-• LeetCode:                   leetcode.com/Gokulraj-max
+• Email:                      <a href="mailto:grajbits@gmail.com" style="color: #00ff88; text-decoration: none;">grajbits@gmail.com</a>
+• LinkedIn:                   <a href="https://linkedin.com/in/govindh-sde" style="color: #00ff88; text-decoration: none;">linkedin.com/in/govindh-sde</a>
+• GitHub:                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
+• LeetCode:                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
 ────────────────────────────────────────────────────────────
 GitHub Stats
 • Repositories:               15
