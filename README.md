@@ -12,39 +12,39 @@
   <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
 </p>
 
-<!-- 2. Terminal Information Card Centered Below -->
+<!-- 2. Terminal Information Card Centered Below (Plain text inside pre to guarantee perfect monospace alignment) -->
 <div align="center" style="margin-top: 25px; margin-bottom: 30px;">
-  <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13.5px; line-height: 1.45; color: #f0f4f9; background: #070a13; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); max-width: 680px; text-align: left; margin: 0 auto;">
-<b>gokul@backend</b>
+  <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.45; color: #f0f4f9; background: #070a13; padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); max-width: 680px; text-align: left; margin: 0 auto;">
+gokul@backend
 ────────────────────────────────────────────────────────────
-<b>• OS:</b>                         Windows 11, Ubuntu Linux, Android 15
-<b>• Uptime:</b>                     MCA Graduate
-<b>• Role:</b>                       Java Backend Developer
-<b>• IDE:</b>                        IntelliJ IDEA, VS Code
-<b>• Languages.Programming:</b>      Java, Python, C++
-<b>• Languages.Computer:</b>         HTML, CSS, SQL, JSON, XML, YAML
-<b>• Languages.Real:</b>             English, Tamil
-<b>• Backend:</b>                    Spring Boot, REST APIs, JDBC
-<b>• Databases:</b>                  MySQL, MongoDB
-<b>• AI/ML:</b>                      Generative AI, LLMs, RAG
-<b>• Tools:</b>                      Git, GitHub, Docker, Postman
-<b>• Core CS:</b>                    DSA, OOP, DBMS, Operating Systems,
+• OS:                         Windows 11, Ubuntu Linux, Android 15
+• Uptime:                     MCA Graduate
+• Role:                       Java Backend Developer
+• IDE:                        IntelliJ IDEA, VS Code
+• Languages.Programming:      Java, Python, C++
+• Languages.Computer:         HTML, CSS, SQL, JSON, XML, YAML
+• Languages.Real:             English, Tamil
+• Backend:                    Spring Boot, REST APIs, JDBC
+• Databases:                  MySQL, MongoDB
+• AI/ML:                      Generative AI, LLMs, RAG
+• Tools:                      Git, GitHub, Docker, Postman
+• Core CS:                    DSA, OOP, DBMS, Operating Systems,
                               Computer Networks
-<b>• Hobbies.Software:</b>           Backend Development, Open Source, AI
-<b>• Hobbies.Hardware:</b>           Linux, PC Hardware
+• Hobbies.Software:           Backend Development, Open Source, AI
+• Hobbies.Hardware:           Linux, PC Hardware
 ────────────────────────────────────────────────────────────
-<b>Contact</b>
-<b>• Email:</b>                      grajbits@gmail.com
-<b>• LinkedIn:</b>                   linkedin.com/in/govindh-sde
-<b>• GitHub:</b>                     github.com/Gokulraj-max
-<b>• LeetCode:</b>                   leetcode.com/Gokulraj-max
+Contact
+• Email:                      grajbits@gmail.com
+• LinkedIn:                   linkedin.com/in/govindh-sde
+• GitHub:                     github.com/Gokulraj-max
+• LeetCode:                   leetcode.com/Gokulraj-max
 ────────────────────────────────────────────────────────────
-<b>GitHub Stats</b>
-<b>• Repositories:</b>               15
-<b>• Contributions:</b>              250+
-<b>• Stars:</b>                      12
-<b>• Commits:</b>                    1000+
-<b>• Followers:</b>                  24
+GitHub Stats
+• Repositories:               15
+• Contributions:              250+
+• Stars:                      12
+• Commits:                    1000+
+• Followers:                  24
 ────────────────────────────────────────────────────────────
   </pre>
 </div>
