@@ -76,182 +76,182 @@ I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from 
 
 # 🚀 Featured Projects
 
-<pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.45; color: #abb2bf; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-<b>[PROJECT_01 // LEXIRAG // AI-POWERED LEGAL DOCUMENT ASSISTANT]</b>
+<pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.45; color: #abb2bf; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0;">
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_01 // LEXIRAG // AI-POWERED LEGAL DOCUMENT ASSISTANT]</span>
 ========================================================================
 An intelligent, secure, and fast Retrieval-Augmented Generation (RAG)
 system built to parse legal documents and answer queries with precise
 citations.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Multi-Format Ingestion (PDF, DOCX, TXT)
   - Local SQLite + NumPy Vector Database
   - Gemini-powered QA Engine
   - Precise Citation Tracking
   - Streamlit Corpus Analytics
 
-<b>* TECH STACK:</b> Python, Streamlit, Gemini API, SQLite, NumPy
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Python, Streamlit, Gemini API, SQLite, NumPy
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant</a>
 ========================================================================
 
-<b>[PROJECT_02 // ECOGUARD_AI // SMART WASTE CLASSIFICATION]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_02 // ECOGUARD_AI // SMART WASTE CLASSIFICATION]</span>
 ========================================================================
 An AI-powered waste classification system and environmental impact
 tracker designed to promote proper recycling practices.
 <i>Built for the AI For Good Hackathon 2026 (ACM-W Track)</i>
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Computer Vision-based Classification (6 waste types)
   - RGB Color & Texture Feature Analysis
   - Plotly Impact Analytics Dashboard
   - Gamified Challenges & Recycling Goals
 
-<b>* TECH STACK:</b> Python, Streamlit, OpenCV, Scikit-Learn, Plotly, Pandas
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/EcoGuard-AI" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/EcoGuard-AI</a>
-<b>* DEMO:</b> <a href="https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app" style="color: #98c379; text-decoration: none;">https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Python, Streamlit, OpenCV, Scikit-Learn, Plotly, Pandas
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/EcoGuard-AI" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/EcoGuard-AI</a>
+<span style="color: #9fbcd9; font-weight: bold;">* DEMO:</span> <a href="https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app" style="color: #00ff88; text-decoration: none;">https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app</a>
 ========================================================================
 
-<b>[PROJECT_03 // EMOTIONAL_PONG // EMOTION ADAPTIVE GAME]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_03 // EMOTIONAL_PONG // EMOTION ADAPTIVE GAME]</span>
 ========================================================================
 An AI-powered interactive Pong game that reads your real-time facial
 expressions via webcam to dynamically adapt the gameplay difficulty.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Facial Emotion Recognition CNN
   - Real-time Webcam Ingestion & Processing
   - Emotion-adaptive Game Engine & AI Opponent
 
-<b>* TECH STACK:</b> Python, TensorFlow, PyTorch, OpenCV
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/Emotional_Pong" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/Emotional_Pong</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Python, TensorFlow, PyTorch, OpenCV
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/Emotional_Pong" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/Emotional_Pong</a>
 ========================================================================
 
-<b>[PROJECT_04 // LARA // PERSONAL VOICE ASSISTANT]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_04 // LARA // PERSONAL VOICE ASSISTANT]</span>
 ========================================================================
 A cross-platform intelligent desktop voice assistant that performs
 local system operations and responds to user commands naturally.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Natural Speech Recognition Input
   - Music Playback & News Processing
   - Local App Execution & Alarm Scheduling
 
-<b>* TECH STACK:</b> Python, Tkinter, SpeechRecognition, Pyttsx3
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/Lara_Voice_Assistant" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/Lara_Voice_Assistant</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Python, Tkinter, SpeechRecognition, Pyttsx3
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/Lara_Voice_Assistant" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/Lara_Voice_Assistant</a>
 ========================================================================
 
-<b>[PROJECT_05 // URL_SHORTEN // HIGH-PERFORMANCE URL SHORTENER]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_05 // URL_SHORTEN // HIGH-PERFORMANCE URL SHORTENER]</span>
 ========================================================================
 A highly scalable URL shortening and redirection service combining a
 blazing-fast C++ redirection engine with a FastAPI gateway.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Ultra-low Latency Redirections (LRU Cache in C++)
   - Asynchronous Click Analytics Ingestion
   - Base62 Collision Detection System
   - Custom Expiry Dates & Expiry Daemons
 
-<b>* TECH STACK:</b> Python, FastAPI, C++, MySQL, SQLite, SQLAlchemy, Docker
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/URL_Shorten" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/URL_Shorten</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Python, FastAPI, C++, MySQL, SQLite, SQLAlchemy, Docker
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/URL_Shorten" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/URL_Shorten</a>
 ========================================================================
 
-<b>[PROJECT_06 // TASK_MANAGER_API // SECURE RESTFUL TASKS SERVICE]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_06 // TASK_MANAGER_API // SECURE RESTFUL TASKS SERVICE]</span>
 ========================================================================
 A secure, multi-tenant task management API featuring user data
 isolation and advanced search querying.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Multi-tenant User Data Isolation
   - OAuth2 JWT Authentication
   - Advanced Task Search, Filtering, and Pagination
   - Integration Tests & Isolated Pytest Fixtures
 
-<b>* TECH STACK:</b> Python, FastAPI, React, PostgreSQL, SQLAlchemy, JWT, Vite
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/task-manager" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/task-manager</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Python, FastAPI, React, PostgreSQL, SQLAlchemy, JWT, Vite
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/task-manager" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/task-manager</a>
 ========================================================================
 
-<b>[PROJECT_07 // TASKFLOW // SPRING BOOT TASKS MANAGER]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_07 // TASKFLOW // SPRING BOOT TASKS MANAGER]</span>
 ========================================================================
 A premium task management application featuring a glassmorphism
 dashboard and interactive Kanban workflow boards.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Spring Security JWT Access Tokens
   - Interactive Drag-and-drop Kanban Board
   - Task Priority Urgency Categorization
   - Dynamic Productivity Statistics Charts
 
-<b>* TECH STACK:</b> Java, Spring Boot, React, Spring Security, JWT, H2, Vite
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/TaskFlow-Manager" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/TaskFlow-Manager</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Java, Spring Boot, React, Spring Security, JWT, H2, Vite
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/TaskFlow-Manager" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/TaskFlow-Manager</a>
 ========================================================================
 
-<b>[PROJECT_08 // TASTEHEAVEN // MERN RESTAURANT APP]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_08 // TASTEHEAVEN // MERN RESTAURANT APP]</span>
 ========================================================================
 A highly-animated, modern restaurant web application built to streamline
 seat reservations, online menu ordering, and back-office controls.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Real-time Restaurant Seat Reservations
   - Interactive Menu Shopping Cart
   - Dedicated Admin Dashboard Panel
 
-<b>* TECH STACK:</b> React, Node.js, Express, MongoDB
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/Taste-Heaven" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/Taste-Heaven</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> React, Node.js, Express, MongoDB
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/Taste-Heaven" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/Taste-Heaven</a>
 ========================================================================
 
-<b>[PROJECT_09 // CHAT_APP // REAL-TIME MESSAGING CLIENT]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_09 // CHAT_APP // REAL-TIME MESSAGING CLIENT]</span>
 ========================================================================
 A lightweight full-stack messaging application hosting direct one-to-one
 chats and public channels.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Real-time Instant Text Dispatch
   - Public Group Channels
   - Secure Session Management
 
-<b>* TECH STACK:</b> Angular, PHP, MySQL
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/Massaging-App" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/Massaging-App</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Angular, PHP, MySQL
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/Massaging-App" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/Massaging-App</a>
 ========================================================================
 
-<b>[PROJECT_10 // RESUME_BUILDER // DYNAMIC CV CREATOR]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_10 // RESUME_BUILDER // DYNAMIC CV CREATOR]</span>
 ========================================================================
 An intuitive web application letting job-seekers build, preview,
 and export resumes.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Dynamic Form Templates & Previewing
   - Print-friendly PDF Export Layouts
   - Save Profiles to Database
 
-<b>* TECH STACK:</b> HTML5, CSS3, JavaScript, PHP, MySQL
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/Resume_Builder" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/Resume_Builder</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> HTML5, CSS3, JavaScript, PHP, MySQL
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/Resume_Builder" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/Resume_Builder</a>
 ========================================================================
 
-<b>[PROJECT_11 // SOUL_OF_TUNE // MUSIC LEARNING APP]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_11 // SOUL_OF_TUNE // MUSIC LEARNING APP]</span>
 ========================================================================
 A cross-platform mobile application offering tutor booking services
 and instrument ecommerce.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Integrated Monitored Instrument Store
   - Music Tutor Scheduling Appointments
   - In-app Live Chat with Instructors
 
-<b>* TECH STACK:</b> Java, Firebase
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/Soul_of_Music" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/Soul_of_Music</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Java, Firebase
+<span style="color: #9fbcd9; font-weight: bold;">* LINK:</span> <a href="https://github.com/Gokulraj-max/Soul_of_Music" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/Soul_of_Music</a>
 ========================================================================
 
-<b>[PROJECT_12 // RR_BOWLS // BIRYANI DELIVERY SERVICE]</b>
+<span style="color: #00A8E8; font-weight: bold;">[PROJECT_12 // RR_BOWLS // BIRYANI DELIVERY SERVICE]</span>
 ========================================================================
 A modern mobile application tailored specifically for Biryani delivery orders
 with real-time checkout tracking.
 
-<b>* KEY FEATURES:</b>
+<span style="color: #9fbcd9; font-weight: bold;">* KEY FEATURES:</span>
   - Menu Customizations & Modifiers
   - Live Order Redirection Status
   - Fast Payment Procedures
 
-<b>* TECH STACK:</b> Java, Firebase
-<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/RR_Bowls" style="color: #61afef; text-decoration: none;">https://github.com/Gokulraj-max/RR_Bowls</a>
+<span style="color: #9fbcd9; font-weight: bold;">* TECH STACK:</span> Java, Firebase
+<b>* LINK:</b> <a href="https://github.com/Gokulraj-max/RR_Bowls" style="color: #00ff88; text-decoration: none;">https://github.com/Gokulraj-max/RR_Bowls</a>
 ========================================================================
 </pre>
 
@@ -301,20 +301,6 @@ with real-time checkout tracking.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokulraj-max&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokulraj-max&theme=tokyonight" width="48%" alt="GitHub Overall Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokulraj-max&theme=tokyonight" width="31%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokulraj-max&theme=tokyonight" width="31%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokulraj-max&theme=tokyonight&utcOffset=8" width="31%" alt="Productive Time" />
 </p>
 
 ---
