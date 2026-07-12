@@ -12,7 +12,6 @@
     <td width="40%" align="center" valign="top" style="border: none; padding-right: 20px;">
       <br/>
       <br/>
-      <br/>
       <img src="assets/ascii_portrait.png" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); height: 505px; width: 100%; object-fit: cover; display: block;" />
       <br/>
       <br/>
