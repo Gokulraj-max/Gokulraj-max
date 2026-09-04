@@ -67,9 +67,7 @@
 
 ────────────────────────────────────────────────────────────
 
-<h3 align="center">
-  <span style="color: #00ff88;">🔗 Contact</span>
-</h3>
+<span style="color: #00ff88; font-weight: bold;">🔗 Contact</span>
 <span style="color: #00ff88;">• Email:</span>                      <a href="mailto:grajbits@gmail.com" style="color: #00ff88; text-decoration: none;">grajbits@gmail.com</a>
 <span style="color: #00ff88;">• LinkedIn:</span>                   <a href="https://linkedin.com/in/govindh-sde" style="color: #00ff88; text-decoration: none;">linkedin.com/in/govindh-sde</a>
 <span style="color: #00ff88;">• GitHub:</span>                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
