@@ -75,7 +75,6 @@
 <span style="color: #00ff88;">• LeetCode:</span>                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
 
 ────────────────────────────────────────────────────────────
-
       </pre>
     </td>
   </tr>
