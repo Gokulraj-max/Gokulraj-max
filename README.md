@@ -515,15 +515,18 @@ Better Software
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Gokulraj-max?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Gokulraj-max?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/repositories/Gokulraj-max?style=for-the-badge&logo=github&label=Repositories" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/Gokulraj-max">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
