@@ -70,13 +70,6 @@
 <span style="color: #00ff88;">• GitHub:</span>                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
 <span style="color: #00ff88;">• LeetCode:</span>                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
 ────────────────────────────────────────────────────────────
-<span style="color: #00ff88; font-weight: bold;">GitHub Stats</span>
-<span style="color: #00ff88;">• Repositories:</span>               15+
-<span style="color: #00ff88;">• Contributions:</span>              90+
-<span style="color: #00ff88;">• Stars:</span>                      12
-<span style="color: #00ff88;">• Commits:</span>                    100+
-<span style="color: #00ff88;">• Followers:</span>                  24
-────────────────────────────────────────────────────────────
       </pre>
     </td>
   </tr>
