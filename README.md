@@ -1,426 +1,316 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=60&descSize=18"/>
 
-<!--                         PREMIUM HERO                           -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Scalable+REST+APIs;Spring+Boot+%7C+Databases+%7C+Docker;Exploring+AI%2C+LLMs+%26+RAG;Solving+DSA+%26+Strengthening+Core+CS" alt="Typing SVG"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=GOVINTH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=61&descSize=18&animation=fadeIn&color=0:020617,45:0F172A,75:1E3A8A,100:00A8E8"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL+%7C+Docker;Building+Scalable+%26+Maintainable+Systems;DSA+%7C+DBMS+%7C+Operating+Systems;Exploring+LLMs+%7C+RAG+%7C+Generative+AI" alt="Typing animation"/>
-
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/govindh-sde">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:grajbits@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&style=for-the-badge&color=00A8E8&label=PROFILE%20VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&style=for-the-badge&color=00A8E8&label=PROFILE+VIEWS"/>
 
 </div>
 
-<div align="center">
+---
 
-SYSTEM STATUS
+# 👨‍💻 About Me
 
-<img src="https://img.shields.io/badge/ROLE-Java%20Backend%20Developer-00A8E8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARNING-DSA%20%26%20Core%20CS-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORING-LLMs%20%26%20RAG-0F766E?style=for-the-badge"/>
+I'm a **Java Backend Developer** focused on building scalable, maintainable and secure backend applications.
 
-</div>
+I work primarily with **Java, Spring Boot, REST APIs, databases and backend architecture**, while also exploring **AI, LLMs and Retrieval-Augmented Generation (RAG)**.
 
-<br/>
+I have a strong interest in **Data Structures & Algorithms and Core Computer Science**, and I enjoy turning concepts into practical projects.
 
-👨‍💻 About Me
+> **Learn → Build → Solve → Improve**
 
-<table>
-<tr>
-<td width="58%" valign="top">
+---
 
-I'm a Java Backend Developer focused on building scalable, maintainable and secure backend applications.
+# 🛠️ Tech Stack
 
-My primary focus is Java, Spring Boot, REST APIs, databases and backend architecture, while I also explore AI, LLMs and Retrieval-Augmented Generation (RAG).
+### ☕ Programming Languages
 
-I enjoy strengthening the engineering fundamentals behind reliable software — from DSA and OOP to DBMS, Operating Systems and Computer Networks.
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript"/>
+</p>
 
-<br/>
+### ⚙️ Backend Development
 
-Learn → Build → Solve → Improve
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express"/>
+</p>
 
-</td>
-<td width="42%" valign="top">
+**Core:** Java • Spring Boot • REST APIs • JDBC • FastAPI • Backend Architecture
 
-┌─────────────────────────────┐
-│       DEVELOPER.EXE         │
-├─────────────────────────────┤
-│                             │
-│  Backend      ██████████ 90%│
-│  Java         █████████  85%│
-│  Spring Boot  ████████   80%│
-│  Databases    ████████   80%│
-│  AI / RAG     ███████    70%│
-│  DSA / CS     ████████   80%│
-│                             │
-│  STATUS: BUILDING...        │
-└─────────────────────────────┘
+### 🗄️ Databases
 
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/>
+</p>
 
-⚙️ Engineering Stack
+### 🤖 AI / Machine Learning
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
+</p>
 
-☕ Languages
+**Focus:** LLMs • RAG • Generative AI • Computer Vision • Machine Learning
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript&perline=8"/>
+### 🌐 Frontend
 
-🚀 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&perline=8"/>
+### 🧰 Tools & Development
 
-🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&perline=8"/>
+---
 
-🤖 AI / Machine Learning
+# 🧠 Core Computer Science
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8"/>
+I continuously strengthen the fundamentals that support good software engineering:
 
-<br/>
-
-LLMs RAG Generative AI Computer Vision Machine Learning
-
-🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=8"/>
-
-🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman&perline=8"/>
-
-</div>
-
-🧠 Core Computer Science
-
-<div align="center">
-
-                    ┌─────────────────────┐
-                    │   SOFTWARE ENGINEER  │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌───────────┐    ┌───────────┐    ┌───────────┐
-        │    DSA    │    │    OOP    │    │   DBMS    │
-        └─────┬─────┘    └─────┬─────┘    └─────┬─────┘
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                     ┌──────────────────┐
-                     │   CORE SYSTEMS   │
-                     └────────┬─────────┘
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-              ┌──────────┐       ┌────────────┐
-              │    OS    │       │ NETWORKING │
-              └────┬─────┘       └─────┬──────┘
-                   └──────────┬────────┘
-                              ▼
-                     ┌─────────────────┐
-                     │ SYSTEM DESIGN   │
-                     └─────────────────┘
-
-</div>
-
-🚀 Featured Projects
-
-<div align="center">
-
-A selection of projects across backend engineering, AI and full-stack development.
-
-</div>
-
-<details>
-<summary><strong>⚡ TaskFlow Manager</strong></summary>
-
-<br/>
-
-A full-stack task management platform with secure authentication, Kanban workflow, priorities, and productivity analytics.
-
-<br/><br/>
-
-<strong>Stack</strong><br/>
-<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/H2-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Gokulraj-max/TaskFlow-Manager">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<details>
-<summary><strong>🔗 High-Performance URL Shortener</strong></summary>
-
-<br/>
-
-A performance-focused URL shortening system combining a C++ engine with a FastAPI gateway, caching, analytics, and Docker.
-
-<br/><br/>
-
-<strong>Stack</strong><br/>
-<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/C++-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Gokulraj-max/URL_Shorten">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<details>
-<summary><strong>🧠 LexiRAG — Legal Document Assistant</strong></summary>
-
-<br/>
-
-A Retrieval-Augmented Generation system for document ingestion, semantic retrieval, Gemini-powered answers, and citation tracking.
-
-<br/><br/>
-
-<strong>Stack</strong><br/>
-<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini%20API-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-1e293b?style=flat-square&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<details>
-<summary><strong>🌱 EcoGuard AI</strong></summary>
-
-<br/>
-
-An AI-powered waste classification and environmental impact tracker built for the AI For Good Hackathon 2026 — ACM-W Track.
-
-<br/><br/>
-
-<strong>Stack</strong><br/>
-<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-1e293b?style=flat-square&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Gokulraj-max/EcoGuard-AI">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<details>
-<summary><strong>📋 Task Management API</strong></summary>
-
-<br/>
-
-A secure multi-tenant REST API with JWT/OAuth2 authentication, isolated user data, search, pagination, clean architecture, and tests.
-
-<br/><br/>
-
-<strong>Stack</strong><br/>
-<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-1e293b?style=flat-square&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Gokulraj-max/task-manager">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<details>
-<summary><strong>🎮 Emotional Pong</strong></summary>
-
-<br/>
-
-An interactive AI game that uses real-time facial expressions to dynamically adapt gameplay difficulty.
-
-<br/><br/>
-
-<strong>Stack</strong><br/>
-<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-1e293b?style=flat-square&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Gokulraj-max/Emotional_Pong">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-🔥 What I'm Building
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-☕ BACKEND
-
-Java
-
-Spring Boot
-
-REST APIs
-
-Security
-
-Architecture
-
-</td>
-<td width="33%" align="center">
-
-🧠 AI
-
-LLMs
-
-RAG
-
-Generative AI
-
-Computer Vision
-
-ML
-
-</td>
-<td width="33%" align="center">
-
-🧩 FUNDAMENTALS
-
-DSA
-
-DBMS
-
-OS
-
-Networks
-
+```text
+Data Structures & Algorithms
+        ↓
+Object-Oriented Programming
+        ↓
+Database Management Systems
+        ↓
+Operating Systems
+        ↓
+Computer Networks
+        ↓
 System Design
+        ↓
+Scalable Backend Engineering
+```
 
-</td>
-</tr>
-</table>
+---
 
-📚 Learning Roadmap
+# 🚀 Featured Projects
 
-                         2026
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Advanced Java   │
-                  └────────┬────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │ Spring Boot     │
-                  │ Backend APIs    │
-                  └────────┬────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │ DSA + Core CS   │
-                  └────────┬────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │ System Design   │
-                  └────────┬────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │ Production-     │
-                  │ Ready Systems   │
-                  └─────────────────┘
+## 01. ⚡ TaskFlow Manager
 
-Currently Exploring
+A full-stack task management application focused on secure authentication, task organization and productivity tracking.
 
-☕ Advanced Java & Spring Boot
+**Highlights**
 
-🧩 Data Structures & Algorithms
+* JWT-based authentication
+* Interactive Kanban board
+* Priority and urgency management
+* Productivity statistics
+* Spring Security integration
+* RESTful backend architecture
 
-🗄️ DBMS & SQL
+**Tech Stack**
 
-💻 Operating Systems
+`Java` `Spring Boot` `Spring Security` `React` `JWT` `H2` `Vite`
 
-🌐 Computer Networks
+🔗 **[View Repository](https://github.com/Gokulraj-max/TaskFlow-Manager)**
 
-🏗️ Backend System Design
+---
 
-🤖 LLMs & RAG
+## 02. 🔗 High-Performance URL Shortener
 
-🐳 Docker & Deployment
+A scalable URL shortening system combining a **C++ performance engine** with a **Python FastAPI gateway**.
 
-📊 GitHub Analytics
+**Highlights**
+
+* High-performance URL redirection
+* LRU caching
+* Base62 encoding
+* Collision detection
+* URL expiration
+* Click analytics
+* User analytics
+* Dockerized architecture
+
+**Tech Stack**
+
+`Python` `FastAPI` `C++` `MySQL` `SQLite` `SQLAlchemy` `Docker`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/URL_Shorten)**
+
+---
+
+## 03. 🧠 AI-Powered Legal Document Assistant — LexiRAG
+
+A Retrieval-Augmented Generation system designed to analyze legal documents and answer user questions with source-aware responses.
+
+**Highlights**
+
+* PDF, DOCX and TXT ingestion
+* Retrieval-Augmented Generation
+* Vector-based document search
+* Gemini-powered question answering
+* Citation tracking
+* Local document storage
+* Corpus analytics
+
+**Tech Stack**
+
+`Python` `RAG` `Gemini API` `SQLite` `NumPy` `Streamlit`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)**
+
+---
+
+## 04. 🌱 EcoGuard AI
+
+An AI-powered waste classification and environmental impact tracking application built for the **AI For Good Hackathon 2026 — ACM-W Track**.
+
+**Highlights**
+
+* Computer vision-based waste classification
+* Six waste categories
+* Image feature analysis
+* Environmental impact tracking
+* Interactive analytics dashboard
+* Gamified sustainability challenges
+
+**Tech Stack**
+
+`Python` `OpenCV` `Scikit-Learn` `Pandas` `Plotly` `Streamlit`
+
+🔗 **[Repository](https://github.com/Gokulraj-max/EcoGuard-AI)**
+🚀 **[Live Demo](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app)**
+
+---
+
+## 05. 📋 Task Management API
+
+A secure multi-tenant REST API designed around clean architecture and isolated user data.
+
+**Highlights**
+
+* JWT / OAuth2 authentication
+* Multi-tenant user isolation
+* CRUD operations
+* Advanced search
+* Pagination
+* SQLAlchemy ORM
+* Automated testing
+
+**Tech Stack**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `JWT` `Pytest`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/task-manager)**
+
+---
+
+## 06. 🎮 Emotional Pong
+
+An interactive AI game that uses real-time facial expressions to dynamically adapt gameplay.
+
+**Highlights**
+
+* Real-time facial emotion recognition
+* Webcam processing
+* Adaptive AI opponent
+* Dynamic gameplay difficulty
+
+**Tech Stack**
+
+`Python` `TensorFlow` `PyTorch` `OpenCV`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/Emotional_Pong)**
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java & Spring Boot
+        ↓
+Advanced Data Structures & Algorithms
+        ↓
+Database Systems
+        ↓
+Operating Systems
+        ↓
+Computer Networks
+        ↓
+System Design
+        ↓
+Production-Ready Backend Engineering
+```
+
+### 🔍 Current Focus
+
+* ☕ Advanced Java & Spring Boot
+* 🧩 Data Structures & Algorithms
+* 🗄️ DBMS & SQL
+* 💻 Operating Systems
+* 🌐 Computer Networks
+* 🏗️ Backend System Design
+* 🤖 LLMs & RAG
+* 🐳 Docker & deployment
+
+---
+
+# 🎯 Career Focus
+
+My goal is to become a **strong backend software engineer** capable of designing and building reliable, scalable and production-ready systems.
+
+```text
+Strong Fundamentals
+        +
+Clean Code
+        +
+Backend Engineering
+        +
+System Design
+        +
+Continuous Learning
+        =
+Better Software
+```
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Gokulraj-max&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Gokulraj-max">
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
-🎯 Career Mission
+---
 
-<div align="center">
-
-        LEARN
-          │
-          ▼
-        SOLVE
-          │
-          ▼
-        BUILD
-          │
-          ▼
-        SHIP
-          │
-          ▼
-       IMPROVE
-          │
-          └───────────────↺
-
-Building toward becoming a strong backend software engineer.
-
-Clean Code • Strong Fundamentals • Scalable Systems • Continuous Learning
-
-</div>
-
-🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -433,23 +323,25 @@ Clean Code • Strong Fundamentals • Scalable Systems • Continuous Learning
 </a>
 
 <a href="https://github.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/LeetCode-DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-My%20DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Backend;Build+Systems+That+Matter;Keep+Learning.+Keep+Building.;One+Project+At+A+Time+%F0%9F%9A%80" alt="Footer animation"/>
+### 🚀 Build. Solve. Learn. Repeat.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Backend;DSA+%7C+DBMS+%7C+Operating+Systems;AI+%7C+LLMs+%7C+RAG;One+Project+At+A+Time+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00A8E8,35:1E3A8A,70:0F172A,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=120&section=footer"/>
 
 </div>
