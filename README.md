@@ -1,305 +1,347 @@
-<p align="center"> 
-  <strong style="font-size:36px; color:#00A8E8;">GOVINTH</strong>
-  <br/>
-  <span style="color:#9fbcd9; font-size:18px;">Full Stack Developer — Java • Python • MERN • ML</span>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=60&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Scalable+REST+APIs;Spring+Boot+%7C+Databases+%7C+Docker;Exploring+AI%2C+LLMs+%26+RAG;Solving+DSA+%26+Strengthening+Core+CS" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/govindh-sde">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:grajbits@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Gokulraj-max">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/Gokulraj-max">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&style=for-the-badge&color=00A8E8&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Java Backend Developer** focused on building scalable, maintainable and secure backend applications.
+
+I work primarily with **Java, Spring Boot, REST APIs, databases and backend architecture**, while also exploring **AI, LLMs and Retrieval-Augmented Generation (RAG)**.
+
+I have a strong interest in **Data Structures & Algorithms and Core Computer Science**, and I enjoy turning concepts into practical projects.
+
+> **Learn → Build → Solve → Improve**
+
+---
+
+# 🛠️ Tech Stack
+
+### ☕ Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript"/>
 </p>
-<hr style="border:none; height:1px; background:#001F3F; margin-top:0.8em; margin-bottom:1.5em;"/>
 
-<!-- Side-by-Side Balanced Layout with Explicit Matching Height -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Left Column: Portrait and profile view badge matching the terminal card height of 560px -->
-    <td width="40%" align="center" valign="top" style="border: none; padding-right: 20px;">
-      <br/>
-      <br/>
-      <img src="assets/ascii_portrait.png" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); height: 505px; width: 100%; object-fit: cover; display: block;" />
-      <br/>
-      <br/>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
-    </td>
-    <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment & neon-green labels -->
-    <td width="60%" valign="top" style="border: none;">
-      <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 560px; overflow: hidden; display: block;">
-<span style="color: #00ff88; font-weight: bold;">govinth@backend</span>
-────────────────────────────────────────────────────────────
-<span style="color: #00ff88;">• OS:</span>                         Windows 11, Ubuntu Linux, Android 15
-<span style="color: #00ff88;">• Uptime:</span>                     MCA Graduate
-<span style="color: #00ff88;">• Role:</span>                       Java Backend Developer
-<span style="color: #00ff88;">• IDE:</span>                        IntelliJ IDEA, VS Code
-<span style="color: #00ff88;">• Languages.Programming:</span>      Java, Python, C++
-<span style="color: #00ff88;">• Languages.Computer:</span>         HTML, CSS, SQL, JSON, XML, YAML
-<span style="color: #00ff88;">• Languages.Real:</span>             English, Tamil
-<span style="color: #00ff88;">• Backend:</span>                    Spring Boot, REST APIs, JDBC
-<span style="color: #00ff88;">• Databases:</span>                  MySQL, MongoDB
-<span style="color: #00ff88;">• AI/ML:</span>                      Generative AI, LLMs, RAG
-<span style="color: #00ff88;">• Tools:</span>                      Git, GitHub, Docker, Postman
-<span style="color: #00ff88;">• Core CS:</span>                    DSA, OOP, DBMS, Operating Systems,
-                              Computer Networks
-<span style="color: #00ff88;">• Hobbies.Software:</span>           Backend Development, Open Source, AI
-<span style="color: #00ff88;">• Hobbies.Hardware:</span>           Linux, PC Hardware
-────────────────────────────────────────────────────────────
-<span style="color: #00ff88; font-weight: bold;">Contact</span>
-<span style="color: #00ff88;">• Email:</span>                      <a href="mailto:grajbits@gmail.com" style="color: #00ff88; text-decoration: none;">grajbits@gmail.com</a>
-<span style="color: #00ff88;">• LinkedIn:</span>                   <a href="https://linkedin.com/in/govindh-sde" style="color: #00ff88; text-decoration: none;">linkedin.com/in/govindh-sde</a>
-<span style="color: #00ff88;">• GitHub:</span>                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
-<span style="color: #00ff88;">• LeetCode:</span>                   <a href="https://leetcode.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">leetcode.com/Gokulraj-max</a>
-────────────────────────────────────────────────────────────
-<span style="color: #00ff88; font-weight: bold;">GitHub Stats</span>
-<span style="color: #00ff88;">• Repositories:</span>               15+
-<span style="color: #00ff88;">• Contributions:</span>              90+
-<span style="color: #00ff88;">• Stars:</span>                      12
-<span style="color: #00ff88;">• Commits:</span>                    100+
-<span style="color: #00ff88;">• Followers:</span>                  24
-────────────────────────────────────────────────────────────
-      </pre>
-    </td>
-  </tr>
-</table>
+### ⚙️ Backend Development
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express"/>
+</p>
 
-I'm a passionate and driven **Full Stack Developer** and **AI Enthusiast** from **Tamil Nadu, India** 🌎. I specialize in building **scalable, high-performance web & mobile applications** with clean architecture, robust backend APIs, and seamless user experiences.
+**Core:** Java • Spring Boot • REST APIs • JDBC • FastAPI • Backend Architecture
 
-### What I Do:
-- 🚀 **Software Engineering:** Developing enterprise-ready backends in Java (Spring Boot) and Python.
-- 🧠 **AI & RAG Applications:** Integrating Large Language Models (LLMs) and computer vision into interactive web apps.
-- 🌐 **Modern Web Design:** Designing premium, responsive interfaces with React, Next.js, and glassmorphism styling.
-- 📱 **Mobile Development:** Building user-centric mobile ordering and utility systems.
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
+</p>
+
+**Focus:** LLMs • RAG • Generative AI • Computer Vision • Machine Learning
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript"/>
+</p>
+
+### 🧰 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman"/>
+</p>
+
+---
+
+# 🧠 Core Computer Science
+
+I continuously strengthen the fundamentals that support good software engineering:
+
+```text
+Data Structures & Algorithms
+        ↓
+Object-Oriented Programming
+        ↓
+Database Management Systems
+        ↓
+Operating Systems
+        ↓
+Computer Networks
+        ↓
+System Design
+        ↓
+Scalable Backend Engineering
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 AI, Machine Learning & RAG
+## 01. ⚡ TaskFlow Manager
 
-### 📂 AI-Powered Legal Document Assistant (LexiRAG)
-> An intelligent, secure, and fast Retrieval-Augmented Generation (RAG) system built to parse legal documents and answer queries with precise citations.
+A full-stack task management application focused on secure authentication, task organization and productivity tracking.
 
-*   **🔑 Key Features:** Multi-Format Ingestion (PDF, DOCX, TXT) • Local SQLite + NumPy Vector DB • Gemini-powered QA • Precise Citation Tracking • Streamlit Corpus Analytics
-*   **🛠 Tech Stack:**  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-    ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-*   🔗 **Repository:** [AI-Powered-Legal-Document-Assistant](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)
+**Highlights**
 
----
+* JWT-based authentication
+* Interactive Kanban board
+* Priority and urgency management
+* Productivity statistics
+* Spring Security integration
+* RESTful backend architecture
 
-### 🌍 EcoGuard AI - Smart Waste Classification
-> An AI-powered waste classification system and environmental impact tracker designed to promote proper recycling practices.
-> *🏆 Built for the AI For Good Hackathon 2026 | ACM-W Track*
+**Tech Stack**
 
-*   **🔑 Key Features:** CV-based Classification (6 waste types) • Color & texture analysis • Plotly Impact Dashboard • Gamified challenges & goals
-*   **🛠 Tech Stack:**  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-    ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-    ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-*   🔗 **Repository:** [EcoGuard-AI](https://github.com/Gokulraj-max/EcoGuard-AI) | 🚀 **Live Demo:** [Try EcoGuard AI Now](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app)
+`Java` `Spring Boot` `Spring Security` `React` `JWT` `H2` `Vite`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/TaskFlow-Manager)**
 
 ---
 
-### 🎮 Emotional Pong – Emotion Controlled AI Game
-> An AI-powered interactive Pong game that reads your real-time facial expressions via webcam to dynamically adapt the gameplay difficulty.
+## 02. 🔗 High-Performance URL Shortener
 
-*   **🔑 Key Features:** Facial emotion recognition • Adaptive AI opponent • webcam video processing
-*   **🛠 Tech Stack:**  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-*   🔗 **Repository:** [Emotional_Pong](https://github.com/Gokulraj-max/Emotional_Pong)
+A scalable URL shortening system combining a **C++ performance engine** with a **Python FastAPI gateway**.
 
----
+**Highlights**
 
-### 🎙 Lara – Your Personal Voice Assistant
-> A cross-platform intelligent desktop voice assistant that performs local system operations and responds to user commands naturally.
+* High-performance URL redirection
+* LRU caching
+* Base62 encoding
+* Collision detection
+* URL expiration
+* Click analytics
+* User analytics
+* Dockerized architecture
 
-*   **🔑 Key Features:** Play music files • Launch local apps • Read daily news updates • Set alarms • Tell jokes
-*   **🛠 Tech Stack:**  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![Tkinter](https://img.shields.io/badge/Tkinter-FFDD00?style=flat-square&logo=python&logoColor=black)
-    ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-3776AB?style=flat-square)
-    ![Pyttsx3](https://img.shields.io/badge/Pyttsx3-00A8E8?style=flat-square)
-*   🔗 **Repository:** [Lara_Voice_Assistant](https://github.com/Gokulraj-max/Lara_Voice_Assistant)
+**Tech Stack**
+
+`Python` `FastAPI` `C++` `MySQL` `SQLite` `SQLAlchemy` `Docker`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/URL_Shorten)**
 
 ---
 
-## 🌐 Full-Stack Web Applications
+## 03. 🧠 AI-Powered Legal Document Assistant — LexiRAG
 
-### 🖥️ Creative Pixel-to-ASCII Studio
-> A premium, interactive client-side web application to convert images into beautiful stylized ASCII art in real-time.
+A Retrieval-Augmented Generation system designed to analyze legal documents and answer user questions with source-aware responses.
 
-*   **🔑 Key Features:** Real-Time Tuning Sliders (Contrast, Brightness, Saturation, Density, Aspect Ratio) • Custom Color Text Rendering • Dynamic Background Removal (Chroma Keying) • High-Res Canvas Exports (.txt, .html, .png) • Interactive Pan & Zoom viewport.
-*   **🛠 Tech Stack:**  
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-*   🔗 **Repository:** [IMAGE_TO_ASCII](https://github.com/Gokulraj-max/IMAGE_TO_ASCII) | 🚀 **Live Demo:** [Try IMAGE_TO_ASCII Now](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)
+**Highlights**
 
----
+* PDF, DOCX and TXT ingestion
+* Retrieval-Augmented Generation
+* Vector-based document search
+* Gemini-powered question answering
+* Citation tracking
+* Local document storage
+* Corpus analytics
 
-### ⚡ High-Performance URL Shortener
-> A highly scalable, secure URL shortening and redirection service combining the speed of a C++ Performance Engine with the flexibility of a Python FastAPI API gateway.
+**Tech Stack**
 
-*   **🔑 Key Features:** Blazing Fast Redirections (LRU Cache in C++) • Asynchronous Click Analytics • Base62 Collision Detection • Custom Expiry Dates • User Analytics Dashboard
-*   **🛠 Tech Stack:**  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-    ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-*   🔗 **Repository:** [URL_Shorten](https://github.com/Gokulraj-max/URL_Shorten)
+`Python` `RAG` `Gemini API` `SQLite` `NumPy` `Streamlit`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)**
 
 ---
 
-### 🚀 Task Management API
-> A secure, multi-tenant, and scalable RESTful Task Management API built with Python 3.12, FastAPI, PostgreSQL, SQLAlchemy, and React (Vite).
+## 04. 🌱 EcoGuard AI
 
-*   **🔑 Key Features:** User Data Isolation • JWT OAuth2 Authentication • CRUD Task Operations • Advanced Search & Pagination • Clean Architecture & Pytest Isolation
-*   **🛠 Tech Stack:**  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-    ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-    ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-*   🔗 **Repository:** [task-manager](https://github.com/Gokulraj-max/task-manager)
+An AI-powered waste classification and environmental impact tracking application built for the **AI For Good Hackathon 2026 — ACM-W Track**.
 
----
+**Highlights**
 
-### 📋 TaskFlow Manager
-> A premium, full-stack task management application featuring a glassmorphism dark-theme dashboard, interactive Kanban boards, and productivity analytics.
+* Computer vision-based waste classification
+* Six waste categories
+* Image feature analysis
+* Environmental impact tracking
+* Interactive analytics dashboard
+* Gamified sustainability challenges
 
-*   **🔑 Key Features:** Secure JWT Authentication • Interactive Kanban Board • Priority Urgency Levels • Productivity Statistics • Glassmorphism design
-*   **🛠 Tech Stack:**  
-    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-    ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-    ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-    ![H2 Database](https://img.shields.io/badge/H2_Database-00A8E8?style=flat-square)
-    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-*   🔗 **Repository:** [TaskFlow-Manager](https://github.com/Gokulraj-max/TaskFlow-Manager)
+**Tech Stack**
+
+`Python` `OpenCV` `Scikit-Learn` `Pandas` `Plotly` `Streamlit`
+
+🔗 **[Repository](https://github.com/Gokulraj-max/EcoGuard-AI)**
+🚀 **[Live Demo](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app)**
 
 ---
 
-### 🍽️ TasteHeaven — MERN Stack Restaurant Web App
-> A highly-animated, modern restaurant web application built to streamline seat reservations, online ordering, and back-office administrative tasks.
+## 05. 📋 Task Management API
 
-*   **🔑 Key Features:** Real-time reservation booking • Interactive shopping cart • Admin dashboard for menu controls
-*   **🛠 Tech Stack:**  
-    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-    ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-*   🔗 **Repository:** [Taste-Heaven](https://github.com/Gokulraj-max/Taste-Heaven)
+A secure multi-tenant REST API designed around clean architecture and isolated user data.
 
----
+**Highlights**
 
-### 💬 Real-Time Chat Application
-> A lightweight full-stack messaging application hosting direct one-to-one chats and public group channels.
+* JWT / OAuth2 authentication
+* Multi-tenant user isolation
+* CRUD operations
+* Advanced search
+* Pagination
+* SQLAlchemy ORM
+* Automated testing
 
-*   **🔑 Key Features:** Real-time text dispatch • Group channel setup • Secure session control
-*   **🛠 Tech Stack:**  
-    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-*   🔗 **Repository:** [Massaging-App](https://github.com/Gokulraj-max/Massaging-App)
+**Tech Stack**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `JWT` `Pytest`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/task-manager)**
 
 ---
 
-### 📝 Resume Builder Web App
-> An intuitive web app letting job-seekers build, preview, customize, and export professional PDF resumes.
+## 06. 🎮 Emotional Pong
 
-*   **🔑 Key Features:** Dynamic templates • PDF export options • Save resume data to profile
-*   **🛠 Tech Stack:**  
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-*   🔗 **Repository:** [Resume_Builder](https://github.com/Gokulraj-max/Resume_Builder)
+An interactive AI game that uses real-time facial expressions to dynamically adapt gameplay.
 
----
+**Highlights**
 
-## 📱 Mobile Applications
+* Real-time facial emotion recognition
+* Webcam processing
+* Adaptive AI opponent
+* Dynamic gameplay difficulty
 
-### 🎵 Soul of Tune Mobile App
-> A cross-platform mobile app offering integrated music tutor bookings and instrument shopping.
+**Tech Stack**
 
-*   **🔑 Key Features:** In-app instrument store • Schedule lessons with tutors • Live chat with instructors
-*   **🛠 Tech Stack:**  
-    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-*   🔗 **Repository:** [Soul_of_Music](https://github.com/Gokulraj-max/Soul_of_Music)
+`Python` `TensorFlow` `PyTorch` `OpenCV`
+
+🔗 **[View Repository](https://github.com/Gokulraj-max/Emotional_Pong)**
 
 ---
 
-### 🍛 RR Bowls Mobile App
-> A modern food delivery mobile app tailored specifically for Biryani orders, containing real-time order status tracking and smooth checkout procedures.
+# 📚 Currently Learning
 
-*   **🔑 Key Features:** Menu customization • Live order tracking status • Quick secure payment options
-*   **🛠 Tech Stack:**  
-    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-*   🔗 **Repository:** [RR_Bowls](https://github.com/Gokulraj-max/RR_Bowls)
+```text
+Java & Spring Boot
+        ↓
+Advanced Data Structures & Algorithms
+        ↓
+Database Systems
+        ↓
+Operating Systems
+        ↓
+Computer Networks
+        ↓
+System Design
+        ↓
+Production-Ready Backend Engineering
+```
 
----
+### 🔍 Current Focus
 
-# 🛠 Tech Stack Overview
-
-### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
-
-### **Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-### **AI / Machine Learning & Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-### **Databases & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+* ☕ Advanced Java & Spring Boot
+* 🧩 Data Structures & Algorithms
+* 🗄️ DBMS & SQL
+* 💻 Operating Systems
+* 🌐 Computer Networks
+* 🏗️ Backend System Design
+* 🤖 LLMs & RAG
+* 🐳 Docker & deployment
 
 ---
 
-<p align="center">✨ <i>"Learning is a never-ending journey."</i> ✨</p>
+# 🎯 Career Focus
+
+My goal is to become a **strong backend software engineer** capable of designing and building reliable, scalable and production-ready systems.
+
+```text
+Strong Fundamentals
+        +
+Clean Code
+        +
+Backend Engineering
+        +
+System Design
+        +
+Continuous Learning
+        =
+Better Software
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/Gokulraj-max">
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/govindh-sde">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:grajbits@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Gokulraj-max">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Gokulraj-max">
+<img src="https://img.shields.io/badge/LeetCode-My%20DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Solve. Learn. Repeat.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Backend;DSA+%7C+DBMS+%7C+Operating+Systems;AI+%7C+LLMs+%7C+RAG;One+Project+At+A+Time+%F0%9F%9A%80" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=120&section=footer"/>
+
+</div>
