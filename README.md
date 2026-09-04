@@ -518,7 +518,7 @@ Better Software
 <p align="center">
   <img src="https://img.shields.io/github/followers/Gokulraj-max?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/Gokulraj-max?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/repositories/Gokulraj-max?style=for-the-badge&logo=github&label=Repositories" />
+   <img src="https://img.shields.io/badge/Repositories-15%2B-blue?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
