@@ -46,6 +46,9 @@
     <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment & neon-green labels -->
     <td width="60%" valign="top" style="border: none;">
       <pre style="font-family: 'Consolas', 'Fira Code', Menlo, Monaco, monospace; font-size: 13px; line-height: 1.4; color: #f0f4f9; background: #070a13; padding: 22px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); margin: 0; box-sizing: border-box; height: 560px; overflow: hidden; display: block;">
+      <br/>
+        <br/>
+        <br/>
 <span style="color: #00ff88; font-weight: bold;">govinth@backend</span>
         
 ────────────────────────────────────────────────────────────
