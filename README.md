@@ -65,9 +65,7 @@
 <span style="color: #00ff88;">• Hobbies.Software:</span>           Backend Development, Open Source, AI
 <span style="color: #00ff88;">• Hobbies.Hardware:</span>           Linux, PC Hardware
 ────────────────────────────────────────────────────────────
-<p align="center">
 <span style="color: #00ff88; font-weight: bold;">🔗 Contact</span>
-</p>
 <span style="color: #00ff88;">• Email:</span>                      <a href="mailto:grajbits@gmail.com" style="color: #00ff88; text-decoration: none;">grajbits@gmail.com</a>
 <span style="color: #00ff88;">• LinkedIn:</span>                   <a href="https://linkedin.com/in/govindh-sde" style="color: #00ff88; text-decoration: none;">linkedin.com/in/govindh-sde</a>
 <span style="color: #00ff88;">• GitHub:</span>                     <a href="https://github.com/Gokulraj-max" style="color: #00ff88; text-decoration: none;">github.com/Gokulraj-max</a>
