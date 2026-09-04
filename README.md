@@ -1,38 +1,38 @@
-````markdown
 <div align="center">
 
-# GOVINTH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=60&descSize=18"/>
 
-### JAVA BACKEND DEVELOPER • SPRING BOOT • AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Scalable+REST+APIs;Spring+Boot+%7C+Databases+%7C+Docker;Exploring+AI%2C+LLMs+%26+RAG;Solving+DSA+%26+Strengthening+Core+CS" alt="Typing SVG"/>
 
-<p>
-  <b>Building scalable backend systems • Solving DSA • Exploring AI & LLMs</b>
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://linkedin.com/in/govindh-sde">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:grajbits@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gokulraj-max">
-    <img src="https://img.shields.io/badge/GitHub-Gokulraj--max-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Gokulraj-max">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/govindh-sde">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:grajbits@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Gokulraj-max">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/Gokulraj-max">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&label=Profile%20Views&color=0e75b6&style=flat" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&style=for-the-badge&color=00A8E8&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="assets/ascii_portrait.png" width="280" alt="Govinth" />
+<img src="assets/ascii_portrait.png" width="280" alt="Govinth"/>
 
 </div>
 
@@ -54,8 +54,8 @@ I have a strong interest in **Data Structures & Algorithms and Core Computer Sci
 
 ### ☕ Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript"/>
 </p>
 
 **Also familiar with:** SQL • HTML • CSS • JSON • XML • YAML
@@ -64,57 +64,47 @@ I have a strong interest in **Data Structures & Algorithms and Core Computer Sci
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express"/>
 </p>
 
 **Core:** Java • Spring Boot • REST APIs • JDBC • FastAPI • Backend Architecture
-
-**Security:** Spring Security • JWT • OAuth2
 
 ---
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,redis" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/>
 </p>
-
-**Databases:** MySQL • PostgreSQL • MongoDB • SQLite • Firebase • Redis
-
-**Concepts:** SQL • Database Design • Indexing • Transactions • Query Optimization
 
 ---
 
 ### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 </p>
 
 **Focus:** LLMs • RAG • Generative AI • Computer Vision • Machine Learning
 
-**Libraries:** NumPy • Pandas • Scikit-Learn • TensorFlow • PyTorch • OpenCV • Streamlit
+**Libraries:** NumPy • Pandas • Scikit-Learn • Streamlit
 
 ---
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript"/>
 </p>
-
-**Technologies:** React • Next.js • Angular • HTML5 • CSS3 • JavaScript • TypeScript
 
 ---
 
 ### 🧰 Tools & Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman"/>
 </p>
-
-**Tools:** Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • VS Code
 
 ---
 
@@ -136,7 +126,7 @@ Computer Networks
 System Design
         ↓
 Scalable Backend Engineering
-````
+```
 
 ---
 
@@ -162,7 +152,7 @@ A Retrieval-Augmented Generation system designed to analyze legal documents and 
 
 `Python` `RAG` `Gemini API` `SQLite` `NumPy` `Streamlit`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)
+🔗 **[View Repository](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)**
 
 ---
 
@@ -185,8 +175,8 @@ An AI-powered waste classification and environmental impact tracking application
 
 `Python` `OpenCV` `Scikit-Learn` `Pandas` `Plotly` `Streamlit`
 
-🔗 [**Repository**](https://github.com/Gokulraj-max/EcoGuard-AI)
-🚀 [**Live Demo**](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app/)
+🔗 **[Repository](https://github.com/Gokulraj-max/EcoGuard-AI)**
+🚀 **[Live Demo](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app/)**
 
 ---
 
@@ -205,7 +195,7 @@ An interactive AI-powered Pong game that uses real-time facial expressions to dy
 
 `Python` `TensorFlow` `PyTorch` `OpenCV`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/Emotional_Pong)
+🔗 **[View Repository](https://github.com/Gokulraj-max/Emotional_Pong)**
 
 ---
 
@@ -226,7 +216,7 @@ A cross-platform intelligent desktop voice assistant capable of performing local
 
 `Python` `Tkinter` `SpeechRecognition` `Pyttsx3`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/Lara_Voice_Assistant)
+🔗 **[View Repository](https://github.com/Gokulraj-max/Lara_Voice_Assistant)**
 
 ---
 
@@ -250,8 +240,8 @@ A premium interactive client-side web application for converting images into sty
 
 `HTML5` `CSS3` `JavaScript`
 
-🔗 [**Repository**](https://github.com/Gokulraj-max/IMAGE_TO_ASCII)
-🚀 [**Live Demo**](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)
+🔗 **[Repository](https://github.com/Gokulraj-max/IMAGE_TO_ASCII)**
+🚀 **[Live Demo](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)**
 
 ---
 
@@ -274,7 +264,7 @@ A scalable URL shortening system combining a **C++ performance engine** with a *
 
 `Python` `FastAPI` `C++` `MySQL` `SQLite` `SQLAlchemy` `Docker`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/URL_Shorten)
+🔗 **[View Repository](https://github.com/Gokulraj-max/URL_Shorten)**
 
 ---
 
@@ -297,7 +287,7 @@ A secure, multi-tenant and scalable REST API designed around clean architecture 
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `JWT` `Pytest`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/task-manager)
+🔗 **[View Repository](https://github.com/Gokulraj-max/task-manager)**
 
 ---
 
@@ -319,7 +309,7 @@ A full-stack task management application featuring secure authentication, intera
 
 `Java` `Spring Boot` `Spring Security` `React` `JWT` `H2` `Vite`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/TaskFlow-Manager)
+🔗 **[View Repository](https://github.com/Gokulraj-max/TaskFlow-Manager)**
 
 ---
 
@@ -340,7 +330,7 @@ A modern restaurant web application designed for seat reservations, online order
 
 `React` `Node.js` `Express` `MongoDB`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/Taste-Heaven)
+🔗 **[View Repository](https://github.com/Gokulraj-max/Taste-Heaven)**
 
 ---
 
@@ -359,7 +349,7 @@ A full-stack messaging application supporting direct one-to-one conversations an
 
 `Angular` `PHP` `MySQL`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/Massaging-App)
+🔗 **[View Repository](https://github.com/Gokulraj-max/Massaging-App)**
 
 ---
 
@@ -379,7 +369,7 @@ A web application that allows users to build, preview, customize and export prof
 
 `HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/Resume_Builder)
+🔗 **[View Repository](https://github.com/Gokulraj-max/Resume_Builder)**
 
 ---
 
@@ -400,7 +390,7 @@ A cross-platform mobile application combining music tutor bookings with an instr
 
 `Java` `Firebase`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/Soul_of_Music)
+🔗 **[View Repository](https://github.com/Gokulraj-max/Soul_of_Music)**
 
 ---
 
@@ -420,7 +410,7 @@ A modern food delivery mobile application focused on Biryani ordering with real-
 
 `Java` `Firebase`
 
-🔗 [**View Repository**](https://github.com/Gokulraj-max/RR_Bowls)
+🔗 **[View Repository](https://github.com/Gokulraj-max/RR_Bowls)**
 
 ---
 
@@ -479,19 +469,15 @@ Better Software
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -502,19 +488,19 @@ Better Software
 <div align="center">
 
 <a href="https://linkedin.com/in/govindh-sde">
-  <img src="https://img.shields.io/badge/LinkedIn-Govinth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:grajbits@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-grajbits%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Gokulraj-max">
-  <img src="https://img.shields.io/badge/GitHub-Gokulraj--max-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/Gokulraj-max">
-  <img src="https://img.shields.io/badge/LeetCode-Gokulraj--max-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-My%20DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -525,9 +511,10 @@ Better Software
 
 ### 🚀 Build. Solve. Learn. Repeat.
 
-**Java Backend Developer | Spring Boot | DSA | Databases | AI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Backend;DSA+%7C+DBMS+%7C+Operating+Systems;AI+%7C+LLMs+%7C+RAG;One+Project+At+A+Time+%F0%9F%9A%80" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=120&section=footer"/>
 
 </div>
-```
-
-This version fixes the **empty Tech Stack categories, missing GitHub statistics, missing activity graph, and incomplete Connect section**, while preserving the overall content and Java-backend positioning of your uploaded version.
