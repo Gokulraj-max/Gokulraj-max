@@ -30,12 +30,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="assets/ascii_portrait.png" width="280" alt="Govinth"/>
-
-</div>
----
 
 <!-- Side-by-Side Balanced Layout with Explicit Matching Height -->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -90,7 +84,6 @@
 </table>
 
 <br/>
----
 
 # 👨‍💻 About Me
 
