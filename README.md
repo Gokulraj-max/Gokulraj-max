@@ -1,416 +1,439 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=60&descSize=18"/>
+# GOVINTH
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Scalable+REST+APIs;Spring+Boot+%7C+Databases+%7C+Docker;Exploring+AI%2C+LLMs+%26+RAG;Solving+DSA+%26+Strengthening+Core+CS" alt="Typing SVG"/>
+### JAVA BACKEND DEVELOPER • SPRING BOOT • AI
 
-<br/><br/>
+<p>
+  <b>Building scalable backend systems • Solving DSA • Exploring AI & LLMs</b>
+</p>
 
-<a href="https://linkedin.com/in/govindh-sde">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:grajbits@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<p>
+  <a href="https://linkedin.com/in/govindh-sde">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:grajbits@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gokulraj-max">
+    <img src="https://img.shields.io/badge/GitHub-Gokulraj--max-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Gokulraj-max">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&style=for-the-badge&color=00A8E8&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/ascii_portrait.png" width="280" alt="Govinth"/>
+<img src="https://komarev.com/ghpvc/?username=Gokulraj-max&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+
+<img src="assets/ascii_portrait.png" width="280" alt="Govinth" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 I'm a **Java Backend Developer** focused on building scalable, maintainable and secure backend applications.
 
-I work primarily with **Java, Spring Boot, REST APIs, databases and backend architecture**, while also exploring **AI, LLMs and Retrieval-Augmented Generation (RAG)**.
+My primary focus is **Java, Spring Boot, REST APIs, databases, backend architecture and problem solving**.
 
-I have a strong interest in **Data Structures & Algorithms and Core Computer Science**, and I enjoy turning concepts into practical projects.
+I also explore **Generative AI, LLMs and Retrieval-Augmented Generation (RAG)** to build practical AI-powered applications.
 
-> **Learn → Build → Solve → Improve**
+Currently strengthening my fundamentals in **DSA, OOP, DBMS, Operating Systems, Computer Networks and System Design** to become a stronger backend software engineer.
+
+```text
+Learn → Build → Solve → Improve
+````
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 What I Work With
 
-### ☕ Programming Languages
+### ☕ Programming
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
 </p>
 
-**Also familiar with:** SQL • HTML • CSS • JSON • XML • YAML
+* Java
+* Python
+* C++
+* JavaScript
+* TypeScript
+* SQL
 
 ---
 
 ### ⚙️ Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express"/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
 </p>
 
-**Core:** Java • Spring Boot • REST APIs • JDBC • FastAPI • Backend Architecture
+* Java & Spring Boot
+* Spring Security
+* REST API Development
+* JDBC
+* FastAPI
+* Authentication & Authorization
+* JWT / OAuth2
+* API Design
+* Backend Architecture
+* Clean Architecture
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,redis" />
 </p>
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* SQLite
+* Firebase
+* Redis
+* SQL
+* Database Design
+* Indexing
+* Transactions
+* Query Optimization
 
 ---
 
 ### 🤖 AI / Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-**Focus:** LLMs • RAG • Generative AI • Computer Vision • Machine Learning
-
-**Libraries:** NumPy • Pandas • Scikit-Learn • Streamlit
+* Generative AI
+* Large Language Models
+* RAG
+* Prompt Engineering
+* Vector Search
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* OpenCV
+* NumPy
+* Pandas
 
 ---
 
-### 🌐 Frontend
+### 🎨 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css" />
 </p>
+
+* React
+* Next.js
+* Angular
+* HTML
+* CSS
+* JavaScript / TypeScript
+
+> Frontend is a supporting skill. My primary focus is **backend engineering**.
 
 ---
 
-### 🧰 Tools & Development
+### 🛠️ Tools & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea" />
 </p>
+
+* Git & GitHub
+* Docker
+* Linux
+* Postman
+* IntelliJ IDEA
+* VS Code
+* GitHub Actions
+* REST APIs
 
 ---
 
 # 🧠 Core Computer Science
 
-I continuously strengthen the fundamentals that support good software engineering:
-
 ```text
-Data Structures & Algorithms
-        ↓
-Object-Oriented Programming
-        ↓
-Database Management Systems
-        ↓
-Operating Systems
-        ↓
-Computer Networks
-        ↓
-System Design
-        ↓
-Scalable Backend Engineering
+                 ┌─────────────┐
+                 │     DSA     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │     OOP     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    DBMS     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │     OS      │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │     CN      │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    System   │
+                 │   Design    │
+                 └──────┬──────┘
+                        ↓
+              ┌────────────────────┐
+              │ Scalable Backend   │
+              │    Engineering     │
+              └────────────────────┘
 ```
 
 ---
 
-# 🚀 Projects
+# 🔥 Featured Projects
 
-## 🤖 AI, Machine Learning & RAG
+## 🤖 AI / ML / RAG
 
-### 01. 🧠 AI-Powered Legal Document Assistant — LexiRAG
+### 📚 AI-Powered Legal Document Assistant — LexiRAG
 
-A Retrieval-Augmented Generation system designed to analyze legal documents and answer user questions with source-aware responses.
+> RAG-based legal document question-answering system.
 
 **Highlights**
 
-* PDF, DOCX and TXT document ingestion
+* PDF / DOCX / TXT document processing
 * Retrieval-Augmented Generation
-* Vector-based document search
-* Gemini-powered question answering
+* Gemini-powered answers
 * Citation tracking
-* Local document storage
-* Corpus analytics
+* Vector search
+* SQLite + NumPy
+* Streamlit analytics
 
-**Tech Stack**
-
-`Python` `RAG` `Gemini API` `SQLite` `NumPy` `Streamlit`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)**
+🔗 [View Repository](https://github.com/Gokulraj-max/AI-Powered-Legal-Document-Assistant)
 
 ---
 
-### 02. 🌱 EcoGuard AI — Smart Waste Classification
+### ♻️ EcoGuard AI — Smart Waste Classification
 
-An AI-powered waste classification and environmental impact tracking application designed to promote proper recycling practices.
-
-🏆 **Built for the AI For Good Hackathon 2026 — ACM-W Track**
+> AI-powered waste classification and environmental tracking platform.
 
 **Highlights**
 
-* Computer vision-based waste classification
-* Six waste categories
-* Color and texture analysis
+* Image-based waste classification
+* 6 waste categories
 * Environmental impact tracking
-* Interactive analytics dashboard
-* Gamified sustainability challenges
+* Gamification
+* Interactive Plotly dashboard
+* AI For Good Hackathon 2026 — ACM-W Track
 
-**Tech Stack**
-
-`Python` `OpenCV` `Scikit-Learn` `Pandas` `Plotly` `Streamlit`
-
-🔗 **[Repository](https://github.com/Gokulraj-max/EcoGuard-AI)**
-🚀 **[Live Demo](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app/)**
+🔗 [View Repository](https://github.com/Gokulraj-max/EcoGuard-AI)
+🚀 [Live Demo](https://ecoguard-ai-c2xudqxekznby3pyzqkq5c.streamlit.app/)
 
 ---
 
-### 03. 🎮 Emotional Pong — Emotion Controlled AI Game
+### 🎮 Emotional Pong — Emotion Controlled AI Game
 
-An interactive AI-powered Pong game that uses real-time facial expressions to dynamically adapt gameplay difficulty.
+> Real-time webcam-based facial expression controlled game.
 
 **Highlights**
 
-* Real-time facial emotion recognition
-* Webcam video processing
+* Real-time facial expression recognition
+* Webcam integration
 * Adaptive AI opponent
-* Dynamic gameplay difficulty
+* Computer vision
 
-**Tech Stack**
-
-`Python` `TensorFlow` `PyTorch` `OpenCV`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/Emotional_Pong)**
+🔗 [View Repository](https://github.com/Gokulraj-max/Emotional_Pong)
 
 ---
 
-### 04. 🎙️ Lara — Personal Voice Assistant
+### 🎙️ Lara — Personal Voice Assistant
 
-A cross-platform intelligent desktop voice assistant capable of performing local system operations and responding naturally to user commands.
+> Desktop voice assistant for system operations and automation.
 
 **Highlights**
 
-* Launch local applications
-* Play music files
-* Read daily news updates
-* Set alarms
 * Voice interaction
-* Interactive responses
+* Application launching
+* Music controls
+* News
+* Alarms
+* System operations
 
-**Tech Stack**
-
-`Python` `Tkinter` `SpeechRecognition` `Pyttsx3`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/Lara_Voice_Assistant)**
-
----
-
-# 🌐 Full-Stack & Backend Applications
-
-### 05. 🖥️ Creative Pixel-to-ASCII Studio
-
-A premium interactive client-side web application for converting images into stylized ASCII art in real time.
-
-**Highlights**
-
-* Real-time image processing
-* Contrast, brightness and saturation controls
-* Density and aspect-ratio tuning
-* Custom color text rendering
-* Background removal
-* High-resolution exports
-* Interactive pan and zoom
-
-**Tech Stack**
-
-`HTML5` `CSS3` `JavaScript`
-
-🔗 **[Repository](https://github.com/Gokulraj-max/IMAGE_TO_ASCII)**
-🚀 **[Live Demo](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)**
+🔗 [View Repository](https://github.com/Gokulraj-max/Lara_Voice_Assistant)
 
 ---
 
-### 06. 🔗 High-Performance URL Shortener
+## ⚙️ Backend / Full-Stack Projects
 
-A scalable URL shortening system combining a **C++ performance engine** with a **Python FastAPI gateway**.
+### 🔗 High-Performance URL Shortener
+
+> Performance-focused URL shortening service using C++ and FastAPI.
 
 **Highlights**
 
-* High-performance URL redirection
-* LRU caching
+* C++ performance engine
+* FastAPI gateway
 * Base62 encoding
+* LRU caching
 * Collision detection
-* Custom URL expiration
-* Click analytics
-* User analytics
-* Dockerized architecture
+* URL expiry
+* Analytics
+* Docker
 
-**Tech Stack**
-
-`Python` `FastAPI` `C++` `MySQL` `SQLite` `SQLAlchemy` `Docker`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/URL_Shorten)**
+🔗 [View Repository](https://github.com/Gokulraj-max/URL_Shorten)
 
 ---
 
-### 07. 📋 Task Management API
+### 📋 Task Management API
 
-A secure, multi-tenant and scalable REST API designed around clean architecture and isolated user data.
+> Secure multi-tenant REST API built with FastAPI and PostgreSQL.
 
 **Highlights**
 
-* JWT / OAuth2 authentication
-* Multi-tenant user isolation
-* CRUD task operations
-* Advanced search
-* Pagination
-* SQLAlchemy ORM
-* Automated testing
+* Multi-tenant architecture
+* JWT / OAuth2
+* PostgreSQL
+* SQLAlchemy
+* CRUD APIs
+* Search & pagination
 * Clean architecture
+* Pytest
 
-**Tech Stack**
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `JWT` `Pytest`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/task-manager)**
+🔗 [View Repository](https://github.com/Gokulraj-max/task-manager)
 
 ---
 
-### 08. ⚡ TaskFlow Manager
+### 🗂️ TaskFlow Manager
 
-A full-stack task management application featuring secure authentication, interactive Kanban boards and productivity analytics.
+> Full-stack task management application powered by Spring Boot.
 
 **Highlights**
 
-* JWT authentication
-* Interactive Kanban board
-* Priority and urgency management
-* Productivity statistics
+* Java
+* Spring Boot
 * Spring Security
-* RESTful backend architecture
-* Glassmorphism interface
+* JWT authentication
+* REST APIs
+* Kanban workflow
+* Productivity statistics
+* React
+* H2
 
-**Tech Stack**
-
-`Java` `Spring Boot` `Spring Security` `React` `JWT` `H2` `Vite`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/TaskFlow-Manager)**
+🔗 [View Repository](https://github.com/Gokulraj-max/TaskFlow-Manager)
 
 ---
 
-### 09. 🍽️ TasteHeaven — MERN Restaurant Web App
+### 💬 Real-Time Chat Application
 
-A modern restaurant web application designed for seat reservations, online ordering and administrative management.
+> Real-time one-to-one and group messaging platform.
 
 **Highlights**
 
-* Real-time reservation booking
-* Interactive shopping cart
-* Online ordering
+* Public group channels
+* One-to-one messaging
+* Angular
+* PHP
+* MySQL
+
+🔗 [View Repository](https://github.com/Gokulraj-max/Massaging-App)
+
+---
+
+### 🍽️ TasteHeaven — Restaurant Platform
+
+> Restaurant ordering and reservation platform.
+
+**Highlights**
+
+* Restaurant reservations
+* Food ordering
 * Admin dashboard
 * Menu management
-* Responsive modern interface
+* React
+* Node.js
+* Express
+* MongoDB
 
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/Taste-Heaven)**
-
----
-
-### 10. 💬 Real-Time Chat Application
-
-A full-stack messaging application supporting direct one-to-one conversations and public group channels.
-
-**Highlights**
-
-* Real-time messaging
-* One-to-one conversations
-* Group channels
-* Secure session control
-
-**Tech Stack**
-
-`Angular` `PHP` `MySQL`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/Massaging-App)**
+🔗 [View Repository](https://github.com/Gokulraj-max/Taste-Heaven)
 
 ---
 
-### 11. 📝 Resume Builder Web App
+### 📝 Resume Builder
 
-A web application that allows users to build, preview, customize and export professional PDF resumes.
+> Dynamic resume creation and PDF export platform.
 
 **Highlights**
 
-* Dynamic resume templates
-* Resume customization
+* Dynamic templates
 * Live preview
+* Profile management
+* Customization
 * PDF export
-* Resume data persistence
 
-**Tech Stack**
-
-`HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/Resume_Builder)**
+🔗 [View Repository](https://github.com/Gokulraj-max/Resume_Builder)
 
 ---
 
-# 📱 Mobile Applications
+## 📱 Mobile Applications
 
-### 12. 🎵 Soul of Tune — Music & Tutor App
+### 🎵 Soul of Tune
 
-A cross-platform mobile application combining music tutor bookings with an instrument shopping experience.
+> Music learning and instrument marketplace application.
 
 **Highlights**
 
-* Instrument store
-* Music tutor booking
-* Lesson scheduling
-* Live chat with instructors
+* Music tutor bookings
+* Instrument shopping
+* Live chat
+* Firebase backend
+* Java
 
-**Tech Stack**
-
-`Java` `Firebase`
-
-🔗 **[View Repository](https://github.com/Gokulraj-max/Soul_of_Music)**
+🔗 [View Repository](https://github.com/Gokulraj-max/Soul_of_Music)
 
 ---
 
-### 13. 🍛 RR Bowls — Food Delivery App
+### 🍛 RR Bowls
 
-A modern food delivery mobile application focused on Biryani ordering with real-time order tracking and streamlined checkout.
+> Food delivery application focused on Biryani ordering.
 
 **Highlights**
 
 * Menu customization
-* Food ordering
-* Real-time order status
-* Secure payment options
-* Smooth checkout experience
+* Live order status
+* Secure payment
+* Firebase
+* Java
 
-**Tech Stack**
+🔗 [View Repository](https://github.com/Gokulraj-max/RR_Bowls)
 
-`Java` `Firebase`
+---
 
-🔗 **[View Repository](https://github.com/Gokulraj-max/RR_Bowls)**
+## 🎨 Other Projects
+
+### 🖼️ Creative Pixel-to-ASCII Studio
+
+> Real-time image-to-ASCII conversion tool.
+
+**Highlights**
+
+* Real-time conversion
+* Color rendering
+* Chroma key
+* Background removal
+* Pan / zoom
+* Export functionality
+
+🔗 [View Repository](https://github.com/Gokulraj-max/IMAGE_TO_ASCII)
+🚀 [Live Demo](https://gokulraj-max.github.io/IMAGE_TO_ASCII/)
 
 ---
 
@@ -418,89 +441,105 @@ A modern food delivery mobile application focused on Biryani ordering with real-
 
 ```text
 Java & Spring Boot
-        ↓
+       ↓
 Advanced Data Structures & Algorithms
-        ↓
+       ↓
 Database Systems
-        ↓
+       ↓
 Operating Systems
-        ↓
+       ↓
 Computer Networks
-        ↓
+       ↓
 System Design
-        ↓
+       ↓
 Production-Ready Backend Engineering
 ```
 
-### 🔍 Current Focus
+---
+
+# 🎯 Current Focus
 
 * ☕ Advanced Java & Spring Boot
 * 🧩 Data Structures & Algorithms
-* 🗄️ DBMS & SQL
-* 💻 Operating Systems
+* 🗄️ DBMS & Advanced SQL
+* ⚙️ Operating Systems
 * 🌐 Computer Networks
 * 🏗️ Backend System Design
-* 🤖 LLMs & RAG
+* 🔐 Secure REST API Development
 * 🐳 Docker & Deployment
+* 🤖 LLMs & RAG
+* 📈 Writing scalable and maintainable backend systems
 
 ---
 
-# 🎯 Career Focus
+# 💼 Career Focus
 
-My goal is to become a **strong backend software engineer** capable of designing and building reliable, scalable and production-ready systems.
+I'm working toward becoming a **strong Backend Software Engineer** with deep expertise in:
 
 ```text
-Strong Fundamentals
-        +
-Clean Code
-        +
-Backend Engineering
-        +
+Java
+  +
+Spring Boot
+  +
+REST APIs
+  +
+Databases
+  +
 System Design
-        +
-Continuous Learning
-        =
-Better Software
+  +
+DSA
+  +
+Distributed Systems
+  +
+Cloud / DevOps
 ```
+
+My goal is to build backend systems that are:
+
+**Scalable • Secure • Maintainable • Performant • Production-Ready**
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulraj-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/govindh-sde">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Govinth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:grajbits@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-grajbits%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://github.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Gokulraj--max-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://leetcode.com/Gokulraj-max">
-<img src="https://img.shields.io/badge/LeetCode-My%20DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Gokulraj--max-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
@@ -509,12 +548,17 @@ Better Software
 
 <div align="center">
 
-### 🚀 Build. Solve. Learn. Repeat.
+### 💻 Build. Solve. Learn. Repeat.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Backend;DSA+%7C+DBMS+%7C+Operating+Systems;AI+%7C+LLMs+%7C+RAG;One+Project+At+A+Time+%F0%9F%9A%80" alt="Footer Animation"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=120&section=footer"/>
+**Java Backend Developer | Spring Boot | DSA | Databases | AI**
 
 </div>
+```
+
+### One important note
+
+I intentionally **didn't use the old `activity-graph.herokuapp.com` URL**. The Activity Graph project says its canonical deployment is now the Vercel endpoint used above.
+
+For the GitHub stats card, the current documented endpoint is also `github-readme-stats.vercel.app`. However, its maintainers note that the public Vercel instance can occasionally hit rate limits; if that happens, self-hosting is the more reliable option.
+
+**Recruiter positioning in this version:** Java Backend → Spring Boot → REST APIs → Databases → DSA/Core CS → System Design, with AI/RAG as an additional differentiator. This is much stronger for the backend roles you're targeting.
