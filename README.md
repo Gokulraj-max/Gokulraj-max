@@ -42,7 +42,6 @@
       <br/>
       <br/>
       <br/>
-      <img src="https://komarev.com/ghpvc/?username=Gokulraj-max&color=brightgreen" alt="Profile Views" />
     </td>
     <!-- Right Column: Terminal Info Card fixed to 560px height with perfect monospace alignment & neon-green labels -->
     <td width="60%" valign="top" style="border: none;">
@@ -525,7 +524,6 @@ Better Software
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulraj-max&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
 </div>
 
 ---
