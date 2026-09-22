@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20AGENTS&descAlignY=60&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Building+Intelligent+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Learning+MLOps+%26+Production+AI" alt="Typing SVG"/>
 
