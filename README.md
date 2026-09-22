@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8E8&height=220&section=header&text=GOVINTH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20AI&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Scalable+REST+APIs;Spring+Boot+%7C+Databases+%7C+Docker;Exploring+AI%2C+LLMs+%26+RAG;Solving+DSA+%26+Strengthening+Core+CS" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Building+Intelligent+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Learning+MLOps+%26+Production+AI" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -54,7 +54,7 @@
 ────────────────────────────────────────────────────────────
 <span style="color: #00ff88;">• OS:</span>                         Windows 11, Ubuntu Linux, Android 15
 <span style="color: #00ff88;">• Uptime:</span>                     MCA Graduate
-<span style="color: #00ff88;">• Role:</span>                       Java Backend Developer
+<span style="color: #00ff88;">• Role:</span>                       AI/ML Engineer
 <span style="color: #00ff88;">• IDE:</span>                        IntelliJ IDEA, VS Code
 <span style="color: #00ff88;">• Languages.Programming:</span>      Java, Python, C++
 <span style="color: #00ff88;">• Languages.Computer:</span>         HTML, CSS, SQL, JSON, XML, YAML
@@ -457,53 +457,54 @@ A modern food delivery mobile application focused on Biryani ordering with real-
 
 ---
 
-# 📚 Currently Learning
+# 🤖 Currently Learning
 
 ```text
-Java & Spring Boot
+Python & Machine Learning
         ↓
-Advanced Data Structures & Algorithms
+Data Analysis & Statistics
         ↓
-Database Systems
+Deep Learning
         ↓
-Operating Systems
+Natural Language Processing (NLP)
         ↓
-Computer Networks
+Generative AI & LLMs
         ↓
-System Design
+RAG & AI Agents
         ↓
-Production-Ready Backend Engineering
-```
+MLOps & Production AI
 
 ### 🔍 Current Focus
 
-* ☕ Advanced Java & Spring Boot
-* 🧩 Data Structures & Algorithms
-* 🗄️ DBMS & SQL
-* 💻 Operating Systems
-* 🌐 Computer Networks
-* 🏗️ Backend System Design
-* 🤖 LLMs & RAG
-* 🐳 Docker & Deployment
+* 🐍 Python & Machine Learning
+* 📊 Data Analysis & Statistics
+* 🧠 Deep Learning
+* 👁️ Computer Vision & NLP
+* 🤖 LLMs & Generative AI
+* 🔎 RAG & AI Agents
+* ⚙️ Model Deployment & MLOps
+* 🐳 Docker & Cloud Deployment
 
 ---
 
 # 🎯 Career Focus
 
-My goal is to become a **strong backend software engineer** capable of designing and building reliable, scalable and production-ready systems.
+My goal is to become a **strong AI/ML engineer** capable of building intelligent, scalable, and production-ready AI systems.
 
 ```text
 Strong Fundamentals
         +
-Clean Code
+Machine Learning
         +
-Backend Engineering
+Deep Learning
         +
-System Design
+Generative AI
+        +
+Production AI
         +
 Continuous Learning
         =
-Better Software
+Better AI Systems
 ```
 
 ---
