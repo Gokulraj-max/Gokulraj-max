@@ -83,11 +83,13 @@
 
 # 👨‍💻 About Me
 
-I'm a **Java Backend Developer** focused on building scalable, maintainable and secure backend applications.
 
-I work primarily with **Java, Spring Boot, REST APIs, databases and backend architecture**, while also exploring **AI, LLMs and Retrieval-Augmented Generation (RAG)**.
+I'm a **Python Backend & AI/ML Developer** focused on building scalable, maintainable, and secure backend applications.
 
-I have a strong interest in **Data Structures & Algorithms and Core Computer Science**, and I enjoy turning concepts into practical projects.
+I work primarily with **Python, FastAPI, REST APIs, databases, backend architecture, AI/ML, and Generative AI**, while exploring **LLMs and Retrieval-Augmented Generation (RAG)**.
+
+I have a strong interest in **Data Structures & Algorithms, Machine Learning, and AI**, and I enjoy turning concepts into practical, real-world projects.
+
 
 > **Learn → Build → Solve → Improve**
 
@@ -111,7 +113,8 @@ I have a strong interest in **Data Structures & Algorithms and Core Computer Sci
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express"/>
 </p>
 
-**Core:** Java • Spring Boot • REST APIs • JDBC • FastAPI • Backend Architecture
+**Core:** Python • FastAPI • REST APIs • Backend Development • Backend Architecture • AI/ML • Generative AI • LLMs • RAG
+
 
 ---
 
